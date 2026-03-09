@@ -1,0 +1,658 @@
+[gd_scene format=3 uid="uid://6ixq1d2tboam"]
+
+[ext_resource type="Script" uid="uid://bec3d88idtdfd" path="res://fruit_unit.gd" id="1_0cfxq"]
+[ext_resource type="Texture2D" uid="uid://dwola620fg7fs" path="res://assets/pets/草莓攻击/草莓攻击_00.png" id="2_bsonp"]
+[ext_resource type="Texture2D" uid="uid://dm6nv34cq6hwp" path="res://assets/pets/草莓攻击/草莓攻击_01.png" id="3_m7gs5"]
+[ext_resource type="Texture2D" uid="uid://3csckphcaooi" path="res://assets/pets/草莓攻击/草莓攻击_02.png" id="4_o5cny"]
+[ext_resource type="Texture2D" uid="uid://kb03wyfhbw3y" path="res://assets/pets/草莓攻击/草莓攻击_03.png" id="5_tlwuy"]
+[ext_resource type="Texture2D" uid="uid://cnj1rjv5qytvb" path="res://assets/pets/草莓攻击/草莓攻击_04.png" id="6_8oyth"]
+[ext_resource type="Texture2D" uid="uid://c16wacfmd7r1g" path="res://assets/pets/草莓攻击/草莓攻击_05.png" id="7_lkafr"]
+[ext_resource type="Texture2D" uid="uid://bcxu8sayblfuh" path="res://assets/pets/草莓攻击/草莓攻击_06.png" id="8_m4i7d"]
+[ext_resource type="Texture2D" uid="uid://bf5ev6s36xgng" path="res://assets/pets/草莓攻击/草莓攻击_07.png" id="9_tf4io"]
+[ext_resource type="Texture2D" uid="uid://5x0ogf2ly8y8" path="res://assets/pets/草莓攻击/草莓攻击_08.png" id="10_4udsf"]
+[ext_resource type="Texture2D" uid="uid://cykap6ft6cmms" path="res://assets/pets/草莓攻击/草莓攻击_09.png" id="11_ilmg8"]
+[ext_resource type="Texture2D" uid="uid://h4oegr7afy7m" path="res://assets/pets/草莓攻击/草莓攻击_10.png" id="12_1t0xl"]
+[ext_resource type="Texture2D" uid="uid://b5e2uqf3u354l" path="res://assets/pets/草莓攻击/草莓攻击_11.png" id="13_xsbat"]
+[ext_resource type="Texture2D" uid="uid://bugar0f0mntmt" path="res://assets/pets/草莓攻击/草莓攻击_12.png" id="14_u1p6m"]
+[ext_resource type="Texture2D" uid="uid://cssn0hbh5odx7" path="res://assets/pets/草莓攻击/草莓攻击_13.png" id="15_qu1ft"]
+[ext_resource type="Texture2D" uid="uid://dh8gcehhlec5p" path="res://assets/pets/草莓攻击/草莓攻击_14.png" id="16_rqmoq"]
+[ext_resource type="Texture2D" uid="uid://cwu2kmr64cvcs" path="res://assets/pets/草莓攻击/草莓攻击_15.png" id="17_65fs5"]
+[ext_resource type="Texture2D" uid="uid://wyi1p5qaalgu" path="res://assets/pets/草莓攻击/草莓攻击_16.png" id="18_5rv67"]
+[ext_resource type="Texture2D" uid="uid://csbh1ph5yvgjv" path="res://assets/pets/草莓攻击/草莓攻击_17.png" id="19_p15uh"]
+[ext_resource type="Texture2D" uid="uid://dawt0lpyvw2v7" path="res://assets/pets/草莓攻击/草莓攻击_18.png" id="20_0wmu8"]
+[ext_resource type="Texture2D" uid="uid://bje2gdd8xexap" path="res://assets/pets/草莓攻击/草莓攻击_19.png" id="21_llmv4"]
+[ext_resource type="Texture2D" uid="uid://botvit1iostlb" path="res://assets/pets/草莓攻击/草莓攻击_20.png" id="22_0xdjp"]
+[ext_resource type="Texture2D" uid="uid://d3q8py237eosr" path="res://assets/pets/草莓攻击/草莓攻击_21.png" id="23_d4pfh"]
+[ext_resource type="Texture2D" uid="uid://cxfkaodxkvewc" path="res://assets/pets/草莓攻击/草莓攻击_22.png" id="24_g1r2b"]
+[ext_resource type="Texture2D" uid="uid://c42rlihjccpdo" path="res://assets/pets/草莓攻击/草莓攻击_23.png" id="25_4ojm2"]
+[ext_resource type="Texture2D" uid="uid://ccu8g3qmjpcm0" path="res://assets/pets/草莓攻击/草莓攻击_24.png" id="26_gexux"]
+[ext_resource type="Texture2D" uid="uid://baxadkra2fjg8" path="res://assets/pets/草莓攻击/草莓攻击_25.png" id="27_3sn4e"]
+[ext_resource type="Texture2D" uid="uid://bpwemld1cebtn" path="res://assets/pets/草莓攻击/草莓攻击_26.png" id="28_ew1sy"]
+[ext_resource type="Texture2D" uid="uid://bhcro8b3p261g" path="res://assets/pets/草莓攻击/草莓攻击_27.png" id="29_na3jk"]
+[ext_resource type="Texture2D" uid="uid://ddopkecj6cvpk" path="res://assets/pets/草莓攻击/草莓攻击_28.png" id="30_68bx8"]
+[ext_resource type="Texture2D" uid="uid://b6b0x3p3xtl6v" path="res://assets/pets/草莓攻击/草莓攻击_29.png" id="31_ij80d"]
+[ext_resource type="Texture2D" uid="uid://d4mgxk7gp7m3h" path="res://assets/pets/草莓攻击/草莓攻击_30.png" id="32_sfd6a"]
+[ext_resource type="Texture2D" uid="uid://bxcgv3lcsoamt" path="res://assets/pets/草莓攻击/草莓攻击_31.png" id="33_8q1jn"]
+[ext_resource type="Texture2D" uid="uid://bumkysysj3ybn" path="res://assets/pets/草莓攻击/草莓攻击_32.png" id="34_475yn"]
+[ext_resource type="Texture2D" uid="uid://opffgay4dhnk" path="res://assets/pets/草莓攻击/草莓攻击_33.png" id="35_v8mqs"]
+[ext_resource type="Texture2D" uid="uid://cwisnn6vl5eum" path="res://assets/pets/草莓攻击/草莓攻击_34.png" id="36_y3nor"]
+[ext_resource type="Texture2D" uid="uid://bcoj2uya4cjbi" path="res://assets/pets/草莓攻击/草莓攻击_35.png" id="37_ry5s7"]
+[ext_resource type="Texture2D" uid="uid://beeeiijkhqqsx" path="res://assets/pets/草莓攻击/草莓攻击_36.png" id="38_h5piw"]
+[ext_resource type="Texture2D" uid="uid://c7i82iornd3pp" path="res://assets/pets/草莓攻击/草莓攻击_37.png" id="39_3f37t"]
+[ext_resource type="Texture2D" uid="uid://jg7uvvp4nyet" path="res://assets/pets/草莓待机/草莓待机_000.png" id="40_q11sh"]
+[ext_resource type="Texture2D" uid="uid://dyd0rjp0ilswj" path="res://assets/pets/草莓待机/草莓待机_001.png" id="41_vdjwt"]
+[ext_resource type="Texture2D" uid="uid://bfstk1o3ym6hf" path="res://assets/pets/草莓待机/草莓待机_002.png" id="42_sp5o4"]
+[ext_resource type="Texture2D" uid="uid://hph1nawg225o" path="res://assets/pets/草莓待机/草莓待机_003.png" id="43_paanv"]
+[ext_resource type="Texture2D" uid="uid://y4dxiik3k01y" path="res://assets/pets/草莓待机/草莓待机_004.png" id="44_wk3h2"]
+[ext_resource type="Texture2D" uid="uid://bu03dkugtic1r" path="res://assets/pets/草莓待机/草莓待机_005.png" id="45_64f06"]
+[ext_resource type="Texture2D" uid="uid://b1g5pmac7ca11" path="res://assets/pets/草莓待机/草莓待机_006.png" id="46_u57rx"]
+[ext_resource type="Texture2D" uid="uid://c38bhy62t8n8a" path="res://assets/pets/草莓待机/草莓待机_007.png" id="47_bcmo0"]
+[ext_resource type="Texture2D" uid="uid://kj571qhuhwrh" path="res://assets/pets/草莓待机/草莓待机_008.png" id="48_j6bee"]
+[ext_resource type="Texture2D" uid="uid://dbwjr4njw1w2p" path="res://assets/pets/草莓待机/草莓待机_009.png" id="49_t4kx7"]
+[ext_resource type="Texture2D" uid="uid://qnq47xmag1jy" path="res://assets/pets/草莓待机/草莓待机_010.png" id="50_0o5q4"]
+[ext_resource type="Texture2D" uid="uid://cxjujskl1m05y" path="res://assets/pets/草莓待机/草莓待机_011.png" id="51_0jw5i"]
+[ext_resource type="Texture2D" uid="uid://bsxy4swb41cqu" path="res://assets/pets/草莓待机/草莓待机_012.png" id="52_abvqx"]
+[ext_resource type="Texture2D" uid="uid://dhjvm5a5pll1g" path="res://assets/pets/草莓待机/草莓待机_013.png" id="53_1impi"]
+[ext_resource type="Texture2D" uid="uid://de66qv4jw77iy" path="res://assets/pets/草莓待机/草莓待机_014.png" id="54_2xvm7"]
+[ext_resource type="Texture2D" uid="uid://bht2j0qs43pa0" path="res://assets/pets/草莓待机/草莓待机_015.png" id="55_1btbx"]
+[ext_resource type="Texture2D" uid="uid://c8cagku7e4jmv" path="res://assets/pets/草莓待机/草莓待机_016.png" id="56_jvx7g"]
+[ext_resource type="Texture2D" uid="uid://bcuhvrqftcuhs" path="res://assets/pets/草莓待机/草莓待机_017.png" id="57_dvrdh"]
+[ext_resource type="Texture2D" uid="uid://bmteuu3m6j2as" path="res://assets/pets/草莓待机/草莓待机_018.png" id="58_40oyo"]
+[ext_resource type="Texture2D" uid="uid://dtvjraw0symgv" path="res://assets/pets/草莓待机/草莓待机_019.png" id="59_uux5a"]
+[ext_resource type="Texture2D" uid="uid://ceksc3oebf306" path="res://assets/pets/草莓待机/草莓待机_020.png" id="60_wvq63"]
+[ext_resource type="Texture2D" uid="uid://bhj6t2g2xdrgf" path="res://assets/pets/草莓待机/草莓待机_021.png" id="61_xbvbh"]
+[ext_resource type="Texture2D" uid="uid://ceoi2a1torsqy" path="res://assets/pets/草莓待机/草莓待机_022.png" id="62_j2a27"]
+[ext_resource type="Texture2D" uid="uid://xego7rxy48xo" path="res://assets/pets/草莓待机/草莓待机_023.png" id="63_c4vx5"]
+[ext_resource type="Texture2D" uid="uid://58yyque48880" path="res://assets/pets/草莓待机/草莓待机_024.png" id="64_xnv8o"]
+[ext_resource type="Texture2D" uid="uid://me3l283ap2n0" path="res://assets/pets/草莓待机/草莓待机_025.png" id="65_6fly2"]
+[ext_resource type="Texture2D" uid="uid://bgb360qplpjmp" path="res://assets/pets/草莓待机/草莓待机_026.png" id="66_f7wc0"]
+[ext_resource type="Texture2D" uid="uid://d4e03w4mggtqk" path="res://assets/pets/草莓待机/草莓待机_027.png" id="67_4ay22"]
+[ext_resource type="Texture2D" uid="uid://bf6544eot02e5" path="res://assets/pets/草莓待机/草莓待机_028.png" id="68_tdhbh"]
+[ext_resource type="Texture2D" uid="uid://c7rfotcu01xb7" path="res://assets/pets/草莓待机/草莓待机_029.png" id="69_pso4t"]
+[ext_resource type="Texture2D" uid="uid://bmrhfco1rqwdf" path="res://assets/pets/草莓待机/草莓待机_030.png" id="70_0koc6"]
+[ext_resource type="Texture2D" uid="uid://b6seit6xrj1mm" path="res://assets/pets/草莓待机/草莓待机_031.png" id="71_gbpnr"]
+[ext_resource type="Texture2D" uid="uid://b2iqmxbu5ivxm" path="res://assets/pets/草莓待机/草莓待机_032.png" id="72_xmf42"]
+[ext_resource type="Texture2D" uid="uid://d2uwfdavaxnkh" path="res://assets/pets/草莓待机/草莓待机_033.png" id="73_15f6b"]
+[ext_resource type="Texture2D" uid="uid://1ka0te3077l3" path="res://assets/pets/草莓待机/草莓待机_034.png" id="74_p7jw3"]
+[ext_resource type="Texture2D" uid="uid://bdjujwpr5plie" path="res://assets/pets/草莓待机/草莓待机_035.png" id="75_qw15j"]
+[ext_resource type="Texture2D" uid="uid://bm7y7p1mfkx6o" path="res://assets/pets/草莓待机/草莓待机_036.png" id="76_7xgsc"]
+[ext_resource type="Texture2D" uid="uid://bdoumup03ew3s" path="res://assets/pets/草莓待机/草莓待机_037.png" id="77_qbeom"]
+[ext_resource type="Texture2D" uid="uid://bu5077b2mbmtf" path="res://assets/pets/草莓待机/草莓待机_038.png" id="78_3sdmn"]
+[ext_resource type="Texture2D" uid="uid://mjn016hbml07" path="res://assets/pets/草莓待机/草莓待机_039.png" id="79_jnyo8"]
+[ext_resource type="Texture2D" uid="uid://bvg6cwo5owg7c" path="res://assets/pets/草莓待机/草莓待机_040.png" id="80_l2x53"]
+[ext_resource type="Texture2D" uid="uid://bf5flkd33hixp" path="res://assets/pets/草莓待机/草莓待机_041.png" id="81_gdp82"]
+[ext_resource type="Texture2D" uid="uid://dm4w88adfhwhw" path="res://assets/pets/草莓待机/草莓待机_042.png" id="82_anrgb"]
+[ext_resource type="Texture2D" uid="uid://ciky781fgdr33" path="res://assets/pets/草莓待机/草莓待机_043.png" id="83_l4vd7"]
+[ext_resource type="Texture2D" uid="uid://dxk3jp5mykbk4" path="res://assets/pets/草莓待机/草莓待机_044.png" id="84_imp1t"]
+[ext_resource type="Texture2D" uid="uid://b6pvtju8ee4cp" path="res://assets/pets/草莓待机/草莓待机_045.png" id="85_42ab3"]
+[ext_resource type="Texture2D" uid="uid://bsujo6qfppn5a" path="res://assets/pets/草莓待机/草莓待机_046.png" id="86_ncd0h"]
+[ext_resource type="Texture2D" uid="uid://cpcoflmv2ufkx" path="res://assets/pets/草莓待机/草莓待机_047.png" id="87_7d4tf"]
+[ext_resource type="Texture2D" uid="uid://c7kcrosjeljdr" path="res://assets/pets/草莓待机/草莓待机_048.png" id="88_c1i0e"]
+[ext_resource type="Texture2D" uid="uid://coq4spghs2b4i" path="res://assets/pets/草莓待机/草莓待机_049.png" id="89_3eqaj"]
+[ext_resource type="Texture2D" uid="uid://ia03k2wq8bjp" path="res://assets/pets/草莓待机/草莓待机_050.png" id="90_2phxk"]
+[ext_resource type="Texture2D" uid="uid://3rswi3n6vyj2" path="res://assets/pets/草莓待机/草莓待机_051.png" id="91_qncmr"]
+[ext_resource type="Texture2D" uid="uid://dlsgffdtor8k2" path="res://assets/pets/草莓待机/草莓待机_052.png" id="92_4lfl8"]
+[ext_resource type="Texture2D" uid="uid://vs8h6ly6nsnq" path="res://assets/pets/草莓待机/草莓待机_053.png" id="93_77rqu"]
+[ext_resource type="Texture2D" uid="uid://ggsdmfvgheri" path="res://assets/pets/草莓待机/草莓待机_054.png" id="94_s3y2y"]
+[ext_resource type="Texture2D" uid="uid://bothobg6vnxd0" path="res://assets/pets/草莓待机/草莓待机_055.png" id="95_dhquw"]
+[ext_resource type="Texture2D" uid="uid://ctiyp5mux136a" path="res://assets/pets/草莓待机/草莓待机_056.png" id="96_mpn22"]
+[ext_resource type="Texture2D" uid="uid://dsuvkhrqsdihy" path="res://assets/pets/草莓待机/草莓待机_057.png" id="97_gg70t"]
+[ext_resource type="Texture2D" uid="uid://ctulwnr1soatb" path="res://assets/pets/草莓待机/草莓待机_058.png" id="98_f4dbv"]
+[ext_resource type="Texture2D" uid="uid://5iksu3kyh461" path="res://assets/pets/草莓待机/草莓待机_059.png" id="99_06a3u"]
+[ext_resource type="Texture2D" uid="uid://cboajbkxwmy5k" path="res://assets/pets/草莓待机/草莓待机_060.png" id="100_hbwmv"]
+[ext_resource type="Texture2D" uid="uid://bnlkgagc8e05e" path="res://assets/pets/草莓待机/草莓待机_061.png" id="101_7phu2"]
+[ext_resource type="Texture2D" uid="uid://cnx0ij6g0w62p" path="res://assets/pets/草莓待机/草莓待机_062.png" id="102_2jofn"]
+[ext_resource type="Texture2D" uid="uid://dpoqogwaojqg7" path="res://assets/pets/草莓待机/草莓待机_063.png" id="103_cu6w6"]
+[ext_resource type="Texture2D" uid="uid://dp1ldkphtd2k6" path="res://assets/pets/草莓待机/草莓待机_064.png" id="104_jej1r"]
+[ext_resource type="Texture2D" uid="uid://dtimkkn3g3m80" path="res://assets/pets/草莓待机/草莓待机_065.png" id="105_cwcrm"]
+[ext_resource type="Texture2D" uid="uid://bgl4ov8jke0t8" path="res://assets/pets/草莓待机/草莓待机_066.png" id="106_8a47p"]
+[ext_resource type="Texture2D" uid="uid://bgb2l2akyiiru" path="res://assets/pets/草莓待机/草莓待机_067.png" id="107_tpis8"]
+[ext_resource type="Texture2D" uid="uid://dhiy6gasig0cs" path="res://assets/pets/草莓待机/草莓待机_068.png" id="108_1lfxx"]
+[ext_resource type="Texture2D" uid="uid://ca5xdg2jgv8gv" path="res://assets/pets/草莓待机/草莓待机_069.png" id="109_d8llu"]
+[ext_resource type="Texture2D" uid="uid://blsed5ihgbput" path="res://assets/pets/草莓待机/草莓待机_070.png" id="110_b1tjo"]
+[ext_resource type="Texture2D" uid="uid://c7sepaec7w38w" path="res://assets/pets/草莓待机/草莓待机_071.png" id="111_cke4m"]
+[ext_resource type="Texture2D" uid="uid://bgkpe0ei1ljv3" path="res://assets/pets/草莓待机/草莓待机_072.png" id="112_m1tq5"]
+[ext_resource type="Texture2D" uid="uid://sji61bnxnsrc" path="res://assets/pets/草莓待机/草莓待机_073.png" id="113_j7al3"]
+[ext_resource type="Texture2D" uid="uid://shjlmhgw6ro1" path="res://assets/pets/草莓待机/草莓待机_074.png" id="114_j1k73"]
+[ext_resource type="Texture2D" uid="uid://4bcwykmyk4ob" path="res://assets/pets/草莓待机/草莓待机_075.png" id="115_nwbwe"]
+[ext_resource type="Texture2D" uid="uid://bprpuupw4q5dp" path="res://assets/pets/草莓待机/草莓待机_076.png" id="116_xku7x"]
+[ext_resource type="Texture2D" uid="uid://dyhtwxpnxpxor" path="res://assets/pets/草莓待机/草莓待机_077.png" id="117_1hek6"]
+[ext_resource type="Texture2D" uid="uid://bexjyrvf4wt0c" path="res://assets/pets/草莓待机/草莓待机_078.png" id="118_t5vk7"]
+[ext_resource type="Texture2D" uid="uid://v32t6saqg7n2" path="res://assets/pets/草莓待机/草莓待机_079.png" id="119_xj138"]
+[ext_resource type="Texture2D" uid="uid://bjkthfkc1warf" path="res://assets/pets/草莓待机/草莓待机_080.png" id="120_g25aa"]
+[ext_resource type="Texture2D" uid="uid://de4nefolrlbxo" path="res://assets/pets/草莓待机/草莓待机_081.png" id="121_12ve8"]
+[ext_resource type="Texture2D" uid="uid://dbhj0v5n3k4ea" path="res://assets/pets/草莓待机/草莓待机_082.png" id="122_7vcq1"]
+[ext_resource type="Texture2D" uid="uid://igs7mexd65u4" path="res://assets/pets/草莓待机/草莓待机_083.png" id="123_jqpir"]
+[ext_resource type="Texture2D" uid="uid://dgebwsrslmpb5" path="res://assets/pets/草莓待机/草莓待机_084.png" id="124_kv25n"]
+[ext_resource type="Texture2D" uid="uid://ckasgtueiohpb" path="res://assets/pets/草莓待机/草莓待机_085.png" id="125_vrry7"]
+[ext_resource type="Texture2D" uid="uid://uvli5li3yll4" path="res://assets/pets/草莓待机/草莓待机_086.png" id="126_kgqt8"]
+[ext_resource type="Texture2D" uid="uid://cg8iyssko2yb2" path="res://assets/pets/草莓待机/草莓待机_087.png" id="127_do8rc"]
+[ext_resource type="Texture2D" uid="uid://byo7hjp4exuwh" path="res://assets/pets/草莓待机/草莓待机_088.png" id="128_tb5vk"]
+[ext_resource type="Texture2D" uid="uid://16h02nnxve4s" path="res://assets/pets/草莓待机/草莓待机_089.png" id="129_8bx0n"]
+[ext_resource type="Texture2D" uid="uid://bvp7qrh7rr2fe" path="res://assets/pets/草莓待机/草莓待机_090.png" id="130_fu04o"]
+[ext_resource type="Texture2D" uid="uid://v0xdtgjg16ll" path="res://assets/pets/草莓待机/草莓待机_091.png" id="131_mnd2b"]
+[ext_resource type="Texture2D" uid="uid://dffcjj6oxxo3p" path="res://assets/pets/草莓待机/草莓待机_092.png" id="132_71xwu"]
+[ext_resource type="Texture2D" uid="uid://bbcoqogx2ucw6" path="res://assets/pets/草莓待机/草莓待机_093.png" id="133_toiap"]
+[ext_resource type="Texture2D" uid="uid://ba2672548htkq" path="res://assets/pets/草莓待机/草莓待机_094.png" id="134_w1vga"]
+[ext_resource type="Texture2D" uid="uid://cbw0di45s4re3" path="res://assets/pets/草莓待机/草莓待机_095.png" id="135_xfupa"]
+[ext_resource type="Texture2D" uid="uid://bakhxlk5lwggu" path="res://assets/pets/草莓待机/草莓待机_096.png" id="136_5sltm"]
+[ext_resource type="Texture2D" uid="uid://ba5hivpac8dw8" path="res://assets/pets/草莓待机/草莓待机_097.png" id="137_i80ms"]
+[ext_resource type="Texture2D" uid="uid://ckvvyhxb01dja" path="res://assets/pets/草莓待机/草莓待机_098.png" id="138_kn3s8"]
+[ext_resource type="Texture2D" uid="uid://cjr715kn8j3nh" path="res://assets/pets/草莓待机/草莓待机_099.png" id="139_iqkuk"]
+[ext_resource type="Texture2D" uid="uid://d3d6uhgg7tks1" path="res://assets/pets/草莓待机/草莓待机_100.png" id="140_twyj7"]
+[ext_resource type="Texture2D" uid="uid://cel5w7n4bv8na" path="res://assets/pets/草莓待机/草莓待机_101.png" id="141_0b70h"]
+[ext_resource type="Texture2D" uid="uid://d0dn1xaui8xto" path="res://assets/pets/草莓待机/草莓待机_102.png" id="142_g12i8"]
+[ext_resource type="Texture2D" uid="uid://dbdcopsh5ottn" path="res://assets/pets/草莓待机/草莓待机_103.png" id="143_ulvii"]
+[ext_resource type="Texture2D" uid="uid://d1atcvg5c5wp2" path="res://assets/pets/草莓待机/草莓待机_104.png" id="144_lqj3u"]
+[ext_resource type="Texture2D" uid="uid://bfrglj1b2dtjg" path="res://assets/pets/草莓待机/草莓待机_105.png" id="145_oc7do"]
+[ext_resource type="Texture2D" uid="uid://bs5kxvs0l1i88" path="res://assets/pets/草莓待机/草莓待机_106.png" id="146_vyw1x"]
+[ext_resource type="Texture2D" uid="uid://bje1k8b0e50uu" path="res://assets/pets/草莓待机/草莓待机_107.png" id="147_17fok"]
+[ext_resource type="Texture2D" uid="uid://yvba0mv0kyfy" path="res://assets/pets/草莓待机/草莓待机_108.png" id="148_6wslk"]
+[ext_resource type="Texture2D" uid="uid://cbtrqc5b130wd" path="res://assets/pets/草莓待机/草莓待机_109.png" id="149_48edc"]
+[ext_resource type="Texture2D" uid="uid://c1qvhotnu2ey6" path="res://assets/pets/草莓待机/草莓待机_110.png" id="150_cnhvx"]
+[ext_resource type="Texture2D" uid="uid://dnv0oquqih34q" path="res://assets/pets/草莓待机/草莓待机_111.png" id="151_56sew"]
+[ext_resource type="Texture2D" uid="uid://bgqtpn8v2o0ka" path="res://assets/pets/草莓待机/草莓待机_112.png" id="152_6l8rc"]
+[ext_resource type="Texture2D" uid="uid://b5bqsfpkvst16" path="res://assets/pets/草莓待机/草莓待机_113.png" id="153_ngpkh"]
+[ext_resource type="Texture2D" uid="uid://cqxdkoke1uhwe" path="res://assets/pets/草莓待机/草莓待机_114.png" id="154_3j5ti"]
+[ext_resource type="Texture2D" uid="uid://fbtt1dam507k" path="res://assets/pets/草莓待机/草莓待机_115.png" id="155_y8fbb"]
+[ext_resource type="Texture2D" uid="uid://qih8yevus18r" path="res://assets/pets/草莓待机/草莓待机_116.png" id="156_oggol"]
+[ext_resource type="Texture2D" uid="uid://b3bbux1dqexac" path="res://assets/pets/草莓待机/草莓待机_117.png" id="157_givmw"]
+[ext_resource type="Texture2D" uid="uid://bmupfcjsu3dov" path="res://assets/pets/草莓待机/草莓待机_118.png" id="158_681vq"]
+[ext_resource type="Texture2D" uid="uid://lp6ov05fah8h" path="res://assets/pets/草莓待机/草莓待机_119.png" id="159_nkjlj"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_32pne"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_bsonp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_m7gs5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_o5cny")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_tlwuy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_8oyth")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_lkafr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_m4i7d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_tf4io")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_4udsf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_ilmg8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_1t0xl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_xsbat")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_u1p6m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_qu1ft")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_rqmoq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_65fs5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_5rv67")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_p15uh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_0wmu8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_llmv4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_0xdjp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_d4pfh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_g1r2b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_4ojm2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_gexux")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_3sn4e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_ew1sy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_na3jk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_68bx8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_ij80d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_sfd6a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_8q1jn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_475yn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_v8mqs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_y3nor")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_ry5s7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_h5piw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_3f37t")
+}],
+"loop": true,
+"name": &"attack",
+"speed": 60.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("40_q11sh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_vdjwt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_sp5o4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_paanv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_wk3h2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_64f06")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_u57rx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_bcmo0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_j6bee")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_t4kx7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_0o5q4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_0jw5i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_abvqx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_1impi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_2xvm7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_1btbx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_jvx7g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_dvrdh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_40oyo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_uux5a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_wvq63")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_xbvbh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_j2a27")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_c4vx5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_xnv8o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_6fly2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_f7wc0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_4ay22")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_tdhbh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_pso4t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_0koc6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_gbpnr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_xmf42")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_15f6b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_p7jw3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_qw15j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_7xgsc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_qbeom")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_3sdmn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_jnyo8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_l2x53")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_gdp82")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_anrgb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_l4vd7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_imp1t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_42ab3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_ncd0h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_7d4tf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_c1i0e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_3eqaj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_2phxk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_qncmr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_4lfl8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_77rqu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_s3y2y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_dhquw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_mpn22")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_gg70t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_f4dbv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_06a3u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_hbwmv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_7phu2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_2jofn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_cu6w6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_jej1r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_cwcrm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_8a47p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_tpis8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_1lfxx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_d8llu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_b1tjo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_cke4m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_m1tq5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_j7al3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_j1k73")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_nwbwe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_xku7x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_1hek6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_t5vk7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_xj138")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_g25aa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("121_12ve8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_7vcq1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_jqpir")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_kv25n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_vrry7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_kgqt8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_do8rc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_tb5vk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_8bx0n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_fu04o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("131_mnd2b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("132_71xwu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_toiap")
+}, {
+"duration": 1.0,
+"texture": ExtResource("134_w1vga")
+}, {
+"duration": 1.0,
+"texture": ExtResource("135_xfupa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("136_5sltm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("137_i80ms")
+}, {
+"duration": 1.0,
+"texture": ExtResource("138_kn3s8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("139_iqkuk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("140_twyj7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("141_0b70h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("142_g12i8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("143_ulvii")
+}, {
+"duration": 1.0,
+"texture": ExtResource("144_lqj3u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("145_oc7do")
+}, {
+"duration": 1.0,
+"texture": ExtResource("146_vyw1x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("147_17fok")
+}, {
+"duration": 1.0,
+"texture": ExtResource("148_6wslk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("149_48edc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("150_cnhvx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("151_56sew")
+}, {
+"duration": 1.0,
+"texture": ExtResource("152_6l8rc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("153_ngpkh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("154_3j5ti")
+}, {
+"duration": 1.0,
+"texture": ExtResource("155_y8fbb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("156_oggol")
+}, {
+"duration": 1.0,
+"texture": ExtResource("157_givmw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("158_681vq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("159_nkjlj")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 60.0
+}]
+
+[node name="FruitUnit" type="Node2D" unique_id=599842750]
+scale = Vector2(0.4, 0.4)
+script = ExtResource("1_0cfxq")
+
+[node name="Sprite" type="AnimatedSprite2D" parent="." unique_id=2042943273]
+sprite_frames = SubResource("SpriteFrames_32pne")
+animation = &"idle"
+
+[node name="Muzzle" type="Marker2D" parent="." unique_id=1972833565]

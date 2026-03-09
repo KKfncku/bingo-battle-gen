@@ -1,0 +1,6 @@
+.import/
+.godot/
+.export/
+.mono/
+*.import
+export_presets.cfg

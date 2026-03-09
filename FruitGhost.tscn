@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://7j0nv350rmqu"]
+
+[ext_resource type="Script" uid="uid://be2jnchqrsl5y" path="res://fruit_ghost.gd" id="1_vxoil"]
+
+[node name="FruitGhost" type="Node2D" unique_id=1614285116]
+script = ExtResource("1_vxoil")
+
+[node name="Icon" type="Sprite2D" parent="." unique_id=72899165]
