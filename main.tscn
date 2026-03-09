@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://dbwb4lwrmekdn"]
 
-[ext_resource type="Texture2D" uid="uid://w3p1ajxqp0m1" path="res://assets/bg/bg.png" id="1_ig7tw"]
+[ext_resource type="Texture2D" uid="uid://cm5h5d8uow0aq" path="res://assets/bg/bg.png" id="1_ig7tw"]
 [ext_resource type="Texture2D" uid="uid://jg7uvvp4nyet" path="res://assets/pets/草莓待机/草莓待机_000.png" id="2_d5iia"]
 [ext_resource type="Script" uid="uid://caq3ubv3rc5rn" path="res://board_area.gd" id="2_off2o"]
 [ext_resource type="PackedScene" uid="uid://6ixq1d2tboam" path="res://FruitUnit.tscn" id="3_1iygd"]
