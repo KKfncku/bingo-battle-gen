@@ -648,10 +648,10 @@ animations = [{
 }]
 
 [node name="FruitUnit" type="Node2D" unique_id=599842750]
-scale = Vector2(0.4, 0.4)
 script = ExtResource("1_0cfxq")
 
 [node name="Sprite" type="AnimatedSprite2D" parent="." unique_id=2042943273]
+scale = Vector2(0.8, 0.8)
 sprite_frames = SubResource("SpriteFrames_32pne")
 animation = &"idle"
 

@@ -1,14 +1,22 @@
-extends TextureButton
+extends Button
 
 @export var fruit_id := "strawberry"
 @export var icon_texture: Texture2D
-@export var board_area_path: NodePath
+@export var board_area_path: NodePath = ^"../../../../World/BoardArea"
+@export var icon_path: NodePath = ^"Icon"
 
 var board: Node = null
+@onready var icon_node: TextureRect = get_node_or_null(icon_path) as TextureRect
 
 func _ready() -> void:
-	if icon_texture:
-		texture_normal = icon_texture
+	if icon_node == null:
+		push_warning("FruitButton: icon node not found: " + str(icon_path))
+	else:
+		icon_node.mouse_filter = Control.MOUSE_FILTER_IGNORE
+		if icon_texture != null:
+			icon_node.texture = icon_texture
+		elif icon_node.texture != null:
+			icon_texture = icon_node.texture
 
 	if board_area_path == NodePath(""):
 		push_warning("FruitButton: board_area_path is empty")

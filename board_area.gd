@@ -12,15 +12,7 @@ var slot_to_unit := {}  # Marker2D -> FruitUnit
 var dragging_ghost = null
 var dragging_fruit_id := ""
 
-# 预览相关：拖动时显示 20% 透明落点提示
-# var preview_unit: FruitUnit = null
-# var preview_slot: Marker2D = null
-
 func _process(_delta: float) -> void:
-	if dragging_ghost != null and not Input.is_mouse_button_pressed(MOUSE_BUTTON_LEFT):
-		end_drag()
-
-	# ✅ 关键：只要左键松开，无论在哪里松手，都结束拖拽
 	if dragging_ghost != null and not Input.is_mouse_button_pressed(MOUSE_BUTTON_LEFT):
 		end_drag()
 
@@ -48,18 +40,12 @@ func begin_drag(fruit_id: String, icon_tex: Texture2D) -> void:
 		return
 
 	dragging_fruit_id = fruit_id
-
-	# 1 生成拖拽预览 ghost 在下 1/3 跟随鼠标 clamp 由 FruitGhost.gd 负责
 	dragging_ghost = ghost_scene.instantiate()
 	add_child(dragging_ghost)
-
-	# FruitGhost 可选字段
 	dragging_ghost.fruit_id = fruit_id
 
 	if icon_tex != null and dragging_ghost.has_method("set_texture"):
 		dragging_ghost.set_texture(icon_tex)
-
-
 
 func end_drag() -> void:
 	if dragging_ghost == null:
@@ -75,10 +61,8 @@ func end_drag() -> void:
 	if existing == null:
 		_spawn_to_specific_slot(slot, dragging_fruit_id)
 	else:
-		# 同种才合成 不同种直接丢弃本次拖出来的
 		if existing.fruit_id == dragging_fruit_id:
 			existing.level += 1
-			# 合成后继续攻击
 			if existing.has_method("set_state_attacking"):
 				existing.set_state_attacking(true)
 
@@ -89,7 +73,6 @@ func cancel_drag() -> void:
 		dragging_ghost.queue_free()
 	dragging_ghost = null
 	dragging_fruit_id = ""
-
 
 func _find_nearest_slot(p: Vector2) -> Marker2D:
 	var best: Marker2D = null

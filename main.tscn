@@ -596,16 +596,16 @@ clip_contents = true
 custom_minimum_size = Vector2(48, 48)
 layout_mode = 2
 script = ExtResource("127_g5xqc")
+icon_texture = ExtResource("2_d5iia")
 
 [node name="Icon" type="TextureRect" parent="UI/BottomUI/ResourceBar/BtnWrap_Strawberry" unique_id=1561777959]
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
-offset_top = 88.0
-offset_bottom = -84.0
 grow_horizontal = 2
 grow_vertical = 2
+mouse_filter = 2
 texture = ExtResource("2_d5iia")
 expand_mode = 1
 stretch_mode = 5
