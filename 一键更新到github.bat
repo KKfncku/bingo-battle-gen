@@ -1,8 +1,12 @@
 @echo off
-chcp 936 >nul
-cd /d D:\soft\Godot\GodotProjects\AdBattleGen\bingo-battle-gen
+cd /d "%~dp0"
 git add .
-set /p msg=请输入提交说明:
+set /p msg=Enter commit message: 
+if "%msg%"=="" (
+    echo Commit message is empty. Cancelled.
+    pause
+    exit /b
+)
 git commit -m "%msg%"
 git push
 pause
