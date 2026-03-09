@@ -1,5 +1,5 @@
 @echo off
-cd /d D:\soft\Godot\GodotProjects\AdBattleGen\bingo-battle-gen
+cd /d "%~dp0"
 echo Current branch:
 git branch --show-current
 echo.
