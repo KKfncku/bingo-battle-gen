@@ -1,14 +1,25 @@
 @echo off
-title 一键更新到 GitHub
-chcp 65001 >nul
+title Push to GitHub
 
-cd /d "D:\Soft\Godot\GodotProjects\AdBattleGen\bingo-battle-gen"
+pushd "%~dp0bingo-battle-gen"
 
+echo Current directory:
+cd
+echo.
+
+git rev-parse --show-toplevel
+if errorlevel 1 (
+    echo ERROR: repository path not found
+    pause
+    exit /b
+)
+
+echo.
 echo Current branch:
 git branch --show-current
 echo.
 
-set /p msg=请输入本次提交说明:
+set /p msg=Commit message:
 if "%msg%"=="" set msg=update
 
 echo.
@@ -24,4 +35,5 @@ echo Pushing to GitHub...
 git push
 
 echo.
+popd
 pause
