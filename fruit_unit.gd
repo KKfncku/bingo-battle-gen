@@ -4,6 +4,7 @@ class_name FruitUnit
 @export var fruit_id := "strawberry"
 @export var level := 1
 @export var bullet_scene: PackedScene
+@export var pomegranate_bullet_scene: PackedScene
 @export var fire_interval := 0.35
 @export var bullet_speed := 900.0
 
@@ -66,7 +67,7 @@ func _process_pomegranate(delta: float) -> void:
 		if _pomegranate_burst_gap_t >= pomegranate_burst_gap:
 			_pomegranate_burst_gap_t = 0.0
 			_pomegranate_burst_left -= 1
-			fire_basic()
+			fire_pomegranate_bullet()
 		return
 
 	_pomegranate_cooldown_t += delta
@@ -74,6 +75,21 @@ func _process_pomegranate(delta: float) -> void:
 		_pomegranate_cooldown_t = 0.0
 		_pomegranate_burst_left = pomegranate_burst_count
 		_pomegranate_burst_gap_t = pomegranate_burst_gap
+
+func fire_pomegranate_bullet() -> void:
+	var scene_to_use: PackedScene = pomegranate_bullet_scene
+	if scene_to_use == null:
+		scene_to_use = bullet_scene
+
+	if scene_to_use == null:
+		return
+
+	var b = scene_to_use.instantiate()
+	get_parent().add_child(b)
+	b.global_position = muzzle.global_position
+
+	if b.has_method("set_velocity"):
+		b.set_velocity(Vector2(0, -bullet_speed))
 
 func _apply_frames_by_fruit_id() -> void:
 	match fruit_id:

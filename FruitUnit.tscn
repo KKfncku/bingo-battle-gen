@@ -2,6 +2,7 @@
 
 [ext_resource type="Script" uid="uid://bec3d88idtdfd" path="res://fruit_unit.gd" id="1_0cfxq"]
 [ext_resource type="SpriteFrames" uid="uid://datvillmidix0" path="res://assets/pets/apple_frames.tres" id="2_86mh3"]
+[ext_resource type="PackedScene" uid="uid://cmq7a32ws3whu" path="res://PomegranateBullet.tscn" id="2_j4112"]
 [ext_resource type="SpriteFrames" uid="uid://bttlk56ny3doe" path="res://assets/pets/strawberry_frames.tres" id="2_rr8s7"]
 [ext_resource type="SpriteFrames" uid="uid://di2mo6mr0hac8" path="res://assets/pets/StrawberryIdle_frames.tres" id="3_tlbgx"]
 [ext_resource type="SpriteFrames" uid="uid://v2g21btdrxw0" path="res://assets/pets/lemon_frames.tres" id="3_v23mt"]
@@ -14,6 +15,7 @@
 
 [node name="FruitUnit" type="Node2D" unique_id=599842750]
 script = ExtResource("1_0cfxq")
+pomegranate_bullet_scene = ExtResource("2_j4112")
 apple_frames = ExtResource("2_86mh3")
 lemon_frames = ExtResource("3_v23mt")
 tomato_frames = ExtResource("4_3xat0")

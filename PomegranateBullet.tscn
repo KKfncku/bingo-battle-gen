@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://cmq7a32ws3whu"]
+
+[ext_resource type="Script" uid="uid://cqgqh6p4pklch" path="res://bullet.gd" id="1_kmstd"]
+[ext_resource type="Texture2D" uid="uid://cvaybvjg4wx80" path="res://assets/fx/普攻子弹/普攻子弹_0.png" id="2_kmstd"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_4s4u5"]
+radius = 8.0
+
+[node name="Bullet" type="Area2D" unique_id=1706531322]
+script = ExtResource("1_kmstd")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1799575171]
+scale = Vector2(0.285, 0.285)
+texture = ExtResource("2_kmstd")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1821302854]
+shape = SubResource("CircleShape2D_4s4u5")
