@@ -127,6 +127,10 @@
 [ext_resource type="Script" uid="uid://ck3tdvlibjnqp" path="res://pet.gd" id="122_asu84"]
 [ext_resource type="PackedScene" uid="uid://dxbyy20p4s8d8" path="res://Bullet.tscn" id="123_qwt6e"]
 [ext_resource type="Script" uid="uid://b885dchoa37au" path="res://FruitButton.gd" id="127_g5xqc"]
+[ext_resource type="Texture2D" uid="uid://donnfqodrnd3q" path="res://assets/pets/苹果待机/苹果待机_000.png" id="128_s4o1y"]
+[ext_resource type="Texture2D" uid="uid://cmh2cjcgnfa1c" path="res://assets/pets/柠檬待机/柠檬待机_00.png" id="129_7mmqq"]
+[ext_resource type="Texture2D" uid="uid://bpkikojxm7q2m" path="res://assets/pets/小番茄待机/小番茄待机_00.png" id="130_3exxq"]
+[ext_resource type="Texture2D" uid="uid://bfncovaagohw3" path="res://assets/pets/香蕉待机/香蕉待机_000.png" id="131_5aa3q"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_rkju4"]
 animations = [{
@@ -607,5 +611,85 @@ grow_horizontal = 2
 grow_vertical = 2
 mouse_filter = 2
 texture = ExtResource("2_d5iia")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="BtnWrap_Apple" type="Button" parent="UI/BottomUI/ResourceBar" unique_id=403188419]
+clip_contents = true
+custom_minimum_size = Vector2(48, 48)
+layout_mode = 2
+script = ExtResource("127_g5xqc")
+fruit_id = "apple"
+icon_texture = ExtResource("128_s4o1y")
+
+[node name="Icon" type="TextureRect" parent="UI/BottomUI/ResourceBar/BtnWrap_Apple" unique_id=993838857]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+texture = ExtResource("128_s4o1y")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="BtnWrap_Lemon" type="Button" parent="UI/BottomUI/ResourceBar" unique_id=1927457416]
+clip_contents = true
+custom_minimum_size = Vector2(48, 48)
+layout_mode = 2
+script = ExtResource("127_g5xqc")
+fruit_id = "lemon"
+icon_texture = ExtResource("129_7mmqq")
+
+[node name="Icon" type="TextureRect" parent="UI/BottomUI/ResourceBar/BtnWrap_Lemon" unique_id=94364433]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+texture = ExtResource("129_7mmqq")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="BtnWrap_Tomato" type="Button" parent="UI/BottomUI/ResourceBar" unique_id=1305027192]
+clip_contents = true
+custom_minimum_size = Vector2(48, 48)
+layout_mode = 2
+script = ExtResource("127_g5xqc")
+fruit_id = "tomato"
+icon_texture = ExtResource("130_3exxq")
+
+[node name="Icon" type="TextureRect" parent="UI/BottomUI/ResourceBar/BtnWrap_Tomato" unique_id=880212949]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+texture = ExtResource("130_3exxq")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="BtnWrap_Banana" type="Button" parent="UI/BottomUI/ResourceBar" unique_id=2110863241]
+clip_contents = true
+custom_minimum_size = Vector2(48, 48)
+layout_mode = 2
+script = ExtResource("127_g5xqc")
+fruit_id = "banana"
+icon_texture = ExtResource("131_5aa3q")
+
+[node name="Icon" type="TextureRect" parent="UI/BottomUI/ResourceBar/BtnWrap_Banana" unique_id=614177796]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+texture = ExtResource("131_5aa3q")
 expand_mode = 1
 stretch_mode = 5

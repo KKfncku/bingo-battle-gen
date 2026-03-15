@@ -1,0 +1,250 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://8i1y3bevsqsf"]
+
+[ext_resource type="Texture2D" uid="uid://pwk8dn5w7h0l" path="res://assets/pets/菠萝待机/菠萝待机_00.png" id="1_2qxf5"]
+[ext_resource type="Texture2D" uid="uid://c2athlbig7uft" path="res://assets/pets/菠萝待机/菠萝待机_01.png" id="2_irxvs"]
+[ext_resource type="Texture2D" uid="uid://cs6jpkglydf68" path="res://assets/pets/菠萝待机/菠萝待机_02.png" id="3_lkh1p"]
+[ext_resource type="Texture2D" uid="uid://ifrq3v0b4rus" path="res://assets/pets/菠萝待机/菠萝待机_03.png" id="4_gcoex"]
+[ext_resource type="Texture2D" uid="uid://dvpcuykhcl7bm" path="res://assets/pets/菠萝待机/菠萝待机_04.png" id="5_0vrtw"]
+[ext_resource type="Texture2D" uid="uid://ch1oof5hyj3sv" path="res://assets/pets/菠萝待机/菠萝待机_05.png" id="6_hakm3"]
+[ext_resource type="Texture2D" uid="uid://bkob4e1at3r3t" path="res://assets/pets/菠萝待机/菠萝待机_06.png" id="7_dc0yx"]
+[ext_resource type="Texture2D" uid="uid://dogb0r1h7kh3v" path="res://assets/pets/菠萝待机/菠萝待机_07.png" id="8_nphfu"]
+[ext_resource type="Texture2D" uid="uid://kva5ew8xna4w" path="res://assets/pets/菠萝待机/菠萝待机_08.png" id="9_qhqcg"]
+[ext_resource type="Texture2D" uid="uid://bsnxfrhpbmrcs" path="res://assets/pets/菠萝待机/菠萝待机_09.png" id="10_ih3i8"]
+[ext_resource type="Texture2D" uid="uid://cp8jw0ittd2ua" path="res://assets/pets/菠萝待机/菠萝待机_10.png" id="11_ya8b3"]
+[ext_resource type="Texture2D" uid="uid://cleonb2qb2j1f" path="res://assets/pets/菠萝待机/菠萝待机_11.png" id="12_3gkyw"]
+[ext_resource type="Texture2D" uid="uid://c4djmpxwhrx02" path="res://assets/pets/菠萝待机/菠萝待机_12.png" id="13_ouhjp"]
+[ext_resource type="Texture2D" uid="uid://bdemeyc6amua0" path="res://assets/pets/菠萝待机/菠萝待机_13.png" id="14_x5m8l"]
+[ext_resource type="Texture2D" uid="uid://brusgemejkx6p" path="res://assets/pets/菠萝待机/菠萝待机_14.png" id="15_b046g"]
+[ext_resource type="Texture2D" uid="uid://j8b24kimk3ar" path="res://assets/pets/菠萝待机/菠萝待机_15.png" id="16_mus8l"]
+[ext_resource type="Texture2D" uid="uid://cba70ms0xo8k2" path="res://assets/pets/菠萝待机/菠萝待机_16.png" id="17_00fck"]
+[ext_resource type="Texture2D" uid="uid://cdr7utdrospg8" path="res://assets/pets/菠萝待机/菠萝待机_17.png" id="18_k00bd"]
+[ext_resource type="Texture2D" uid="uid://bhhktw2dwuqgy" path="res://assets/pets/菠萝待机/菠萝待机_18.png" id="19_ij0yh"]
+[ext_resource type="Texture2D" uid="uid://bsnian865vytd" path="res://assets/pets/菠萝待机/菠萝待机_19.png" id="20_yb0ef"]
+[ext_resource type="Texture2D" uid="uid://b7bqehot30n13" path="res://assets/pets/菠萝待机/菠萝待机_20.png" id="21_uns23"]
+[ext_resource type="Texture2D" uid="uid://dk4tff3t5afew" path="res://assets/pets/菠萝待机/菠萝待机_21.png" id="22_rjrrx"]
+[ext_resource type="Texture2D" uid="uid://dg5h30j66e7ck" path="res://assets/pets/菠萝待机/菠萝待机_22.png" id="23_m0e5y"]
+[ext_resource type="Texture2D" uid="uid://dkty25v855pyb" path="res://assets/pets/菠萝待机/菠萝待机_23.png" id="24_1sfyh"]
+[ext_resource type="Texture2D" uid="uid://b1ivejds3ubts" path="res://assets/pets/菠萝待机/菠萝待机_24.png" id="25_j0rea"]
+[ext_resource type="Texture2D" uid="uid://diqwhumayn2wd" path="res://assets/pets/菠萝待机/菠萝待机_25.png" id="26_0ho1e"]
+[ext_resource type="Texture2D" uid="uid://c140sttubbo7b" path="res://assets/pets/菠萝待机/菠萝待机_26.png" id="27_t5qy1"]
+[ext_resource type="Texture2D" uid="uid://btuyo47rkjr4f" path="res://assets/pets/菠萝待机/菠萝待机_27.png" id="28_w420s"]
+[ext_resource type="Texture2D" uid="uid://bu385hg27wbfy" path="res://assets/pets/菠萝待机/菠萝待机_28.png" id="29_cxs4u"]
+[ext_resource type="Texture2D" uid="uid://emrc31xy3hyd" path="res://assets/pets/菠萝待机/菠萝待机_29.png" id="30_jx4cb"]
+[ext_resource type="Texture2D" uid="uid://dg6lwpyyln73w" path="res://assets/pets/菠萝待机/菠萝待机_30.png" id="31_v5l8i"]
+[ext_resource type="Texture2D" uid="uid://cpyb5fojrwx5h" path="res://assets/pets/菠萝待机/菠萝待机_31.png" id="32_6d48s"]
+[ext_resource type="Texture2D" uid="uid://dfl4totfvot1p" path="res://assets/pets/菠萝待机/菠萝待机_32.png" id="33_c7jrp"]
+[ext_resource type="Texture2D" uid="uid://drtsoybv3g6j7" path="res://assets/pets/菠萝待机/菠萝待机_33.png" id="34_xxcv0"]
+[ext_resource type="Texture2D" uid="uid://8k017gtpu600" path="res://assets/pets/菠萝待机/菠萝待机_34.png" id="35_0l572"]
+[ext_resource type="Texture2D" uid="uid://dubx7t3u62n5" path="res://assets/pets/菠萝待机/菠萝待机_35.png" id="36_x6nan"]
+[ext_resource type="Texture2D" uid="uid://ctgs3gfhnprbu" path="res://assets/pets/菠萝待机/菠萝待机_36.png" id="37_qbcmg"]
+[ext_resource type="Texture2D" uid="uid://d0tbkfe8nib63" path="res://assets/pets/菠萝待机/菠萝待机_37.png" id="38_uteyr"]
+[ext_resource type="Texture2D" uid="uid://cm1xa6vingjqk" path="res://assets/pets/菠萝待机/菠萝待机_38.png" id="39_rhf0i"]
+[ext_resource type="Texture2D" uid="uid://bxqgrpxqyhkhk" path="res://assets/pets/菠萝待机/菠萝待机_39.png" id="40_bdjxt"]
+[ext_resource type="Texture2D" uid="uid://iphfhp27py0s" path="res://assets/pets/菠萝待机/菠萝待机_40.png" id="41_gbtwl"]
+[ext_resource type="Texture2D" uid="uid://bh4kotn7lhdgr" path="res://assets/pets/菠萝待机/菠萝待机_41.png" id="42_0sbx3"]
+[ext_resource type="Texture2D" uid="uid://ds6vcw3rrwu1v" path="res://assets/pets/菠萝待机/菠萝待机_42.png" id="43_pj7ww"]
+[ext_resource type="Texture2D" uid="uid://b1v5ydnwnybko" path="res://assets/pets/菠萝待机/菠萝待机_43.png" id="44_gba2f"]
+[ext_resource type="Texture2D" uid="uid://denxnenbmd0su" path="res://assets/pets/菠萝待机/菠萝待机_44.png" id="45_8gwye"]
+[ext_resource type="Texture2D" uid="uid://ce7b4gjws2ve3" path="res://assets/pets/菠萝待机/菠萝待机_45.png" id="46_vapiq"]
+[ext_resource type="Texture2D" uid="uid://drkyj85t2so68" path="res://assets/pets/菠萝待机/菠萝待机_46.png" id="47_guexw"]
+[ext_resource type="Texture2D" uid="uid://ropxxme7qt65" path="res://assets/pets/菠萝待机/菠萝待机_47.png" id="48_2q4iv"]
+[ext_resource type="Texture2D" uid="uid://bbi7xyj5t0pcu" path="res://assets/pets/菠萝待机/菠萝待机_48.png" id="49_gwv4b"]
+[ext_resource type="Texture2D" uid="uid://dau5br74lab54" path="res://assets/pets/菠萝待机/菠萝待机_49.png" id="50_pe604"]
+[ext_resource type="Texture2D" uid="uid://65kg0qbohpuf" path="res://assets/pets/菠萝待机/菠萝待机_50.png" id="51_2ijq1"]
+[ext_resource type="Texture2D" uid="uid://b4x0xu561aq5v" path="res://assets/pets/菠萝待机/菠萝待机_51.png" id="52_carli"]
+[ext_resource type="Texture2D" uid="uid://ns31lhll85ab" path="res://assets/pets/菠萝待机/菠萝待机_52.png" id="53_qcg28"]
+[ext_resource type="Texture2D" uid="uid://buvyg26llbhef" path="res://assets/pets/菠萝待机/菠萝待机_53.png" id="54_clh54"]
+[ext_resource type="Texture2D" uid="uid://8dd2iwiqyjtg" path="res://assets/pets/菠萝待机/菠萝待机_54.png" id="55_4k4v6"]
+[ext_resource type="Texture2D" uid="uid://dfrdhiporhb0j" path="res://assets/pets/菠萝待机/菠萝待机_55.png" id="56_10dwx"]
+[ext_resource type="Texture2D" uid="uid://c8sers1mx5byl" path="res://assets/pets/菠萝待机/菠萝待机_56.png" id="57_wywac"]
+[ext_resource type="Texture2D" uid="uid://32k7n0d18s4c" path="res://assets/pets/菠萝待机/菠萝待机_57.png" id="58_uwihv"]
+[ext_resource type="Texture2D" uid="uid://ccrps4bqcnjy0" path="res://assets/pets/菠萝待机/菠萝待机_58.png" id="59_0s2uq"]
+[ext_resource type="Texture2D" uid="uid://cud6fc6s1w0ah" path="res://assets/pets/菠萝待机/菠萝待机_59.png" id="60_gn6nb"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_2qxf5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_irxvs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_lkh1p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_gcoex")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_0vrtw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_hakm3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_dc0yx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_nphfu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_qhqcg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_ih3i8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_ya8b3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_3gkyw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_ouhjp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_x5m8l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_b046g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_mus8l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_00fck")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_k00bd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_ij0yh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_yb0ef")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_uns23")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_rjrrx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_m0e5y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_1sfyh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_j0rea")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_0ho1e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_t5qy1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_w420s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_cxs4u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_jx4cb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_v5l8i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_6d48s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_c7jrp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_xxcv0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_0l572")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_x6nan")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_qbcmg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_uteyr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_rhf0i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_bdjxt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_gbtwl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_0sbx3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_pj7ww")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_gba2f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_8gwye")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_vapiq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_guexw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_2q4iv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_gwv4b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_pe604")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_2ijq1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_carli")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_qcg28")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_clh54")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_4k4v6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_10dwx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_wywac")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_uwihv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_0s2uq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_gn6nb")
+}],
+"loop": true,
+"name": &"pineappleidle",
+"speed": 60.0
+}]

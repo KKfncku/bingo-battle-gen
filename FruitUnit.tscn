@@ -1,12 +1,26 @@
 [gd_scene format=3 uid="uid://6ixq1d2tboam"]
 
 [ext_resource type="Script" uid="uid://bec3d88idtdfd" path="res://fruit_unit.gd" id="1_0cfxq"]
+[ext_resource type="SpriteFrames" uid="uid://datvillmidix0" path="res://assets/pets/apple_frames.tres" id="2_86mh3"]
 [ext_resource type="SpriteFrames" uid="uid://bttlk56ny3doe" path="res://assets/pets/strawberry_frames.tres" id="2_rr8s7"]
 [ext_resource type="SpriteFrames" uid="uid://di2mo6mr0hac8" path="res://assets/pets/StrawberryIdle_frames.tres" id="3_tlbgx"]
+[ext_resource type="SpriteFrames" uid="uid://v2g21btdrxw0" path="res://assets/pets/lemon_frames.tres" id="3_v23mt"]
+[ext_resource type="SpriteFrames" uid="uid://ca7f7o6cjaju6" path="res://assets/pets/tomato_frames.tres" id="4_3xat0"]
+[ext_resource type="SpriteFrames" uid="uid://dyo6q7grdq3oq" path="res://assets/pets/banana_frames.tres" id="5_jpt8s"]
+[ext_resource type="SpriteFrames" uid="uid://8i1y3bevsqsf" path="res://assets/pets/pineapple_frames.tres" id="6_jpt8s"]
+[ext_resource type="SpriteFrames" uid="uid://diowatvokkckn" path="res://assets/pets/pomegranate_frames.tres" id="7_2irct"]
+[ext_resource type="SpriteFrames" uid="uid://cuwfg5t0jasyg" path="res://assets/pets/durian_frames.tres" id="8_nr738"]
 [ext_resource type="SpriteFrames" uid="uid://bw0r8fr44e5us" path="res://assets/pets/StrawberryAttack_frames.tres" id="123_gn7u4"]
 
 [node name="FruitUnit" type="Node2D" unique_id=599842750]
 script = ExtResource("1_0cfxq")
+apple_frames = ExtResource("2_86mh3")
+lemon_frames = ExtResource("3_v23mt")
+tomato_frames = ExtResource("4_3xat0")
+banana_frames = ExtResource("5_jpt8s")
+pineapple_frames = ExtResource("6_jpt8s")
+pomegranate_frames = ExtResource("7_2irct")
+durian_frames = ExtResource("8_nr738")
 
 [node name="Sprite" type="AnimatedSprite2D" parent="." unique_id=2042943273]
 scale = Vector2(0.6, 0.6)

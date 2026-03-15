@@ -1,0 +1,387 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://datvillmidix0"]
+
+[ext_resource type="Texture2D" uid="uid://ciebpsus1r7d5" path="res://assets/pets/苹果攻击/苹果攻击_60.png" id="1_wdk60"]
+[ext_resource type="Texture2D" uid="uid://b3en8mdqwjnij" path="res://assets/pets/苹果攻击/苹果攻击_61.png" id="2_1htdo"]
+[ext_resource type="Texture2D" uid="uid://cx6tg5x0le5rw" path="res://assets/pets/苹果攻击/苹果攻击_62.png" id="3_ai0g5"]
+[ext_resource type="Texture2D" uid="uid://dimpdoiwji7vw" path="res://assets/pets/苹果攻击/苹果攻击_63.png" id="4_frgdy"]
+[ext_resource type="Texture2D" uid="uid://ckptc3kbhbuc6" path="res://assets/pets/苹果攻击/苹果攻击_64.png" id="5_7sr0x"]
+[ext_resource type="Texture2D" uid="uid://dx34orryqhenn" path="res://assets/pets/苹果攻击/苹果攻击_65.png" id="6_ak35d"]
+[ext_resource type="Texture2D" uid="uid://bsarxad3uie8s" path="res://assets/pets/苹果攻击/苹果攻击_66.png" id="7_i12gy"]
+[ext_resource type="Texture2D" uid="uid://s3jteqd634pt" path="res://assets/pets/苹果攻击/苹果攻击_67.png" id="8_fmwnb"]
+[ext_resource type="Texture2D" uid="uid://7t1kugaico5u" path="res://assets/pets/苹果攻击/苹果攻击_68.png" id="9_kgghk"]
+[ext_resource type="Texture2D" uid="uid://bl2ixtjbspop" path="res://assets/pets/苹果攻击/苹果攻击_69.png" id="10_de24v"]
+[ext_resource type="Texture2D" uid="uid://cn5v6qpoy3650" path="res://assets/pets/苹果攻击/苹果攻击_70.png" id="11_w2klo"]
+[ext_resource type="Texture2D" uid="uid://c6tfy4m4maq7k" path="res://assets/pets/苹果攻击/苹果攻击_71.png" id="12_kumpi"]
+[ext_resource type="Texture2D" uid="uid://tvmsh55hi4mw" path="res://assets/pets/苹果攻击/苹果攻击_72.png" id="13_6xxa5"]
+[ext_resource type="Texture2D" uid="uid://bxh4oqpprj4bx" path="res://assets/pets/苹果攻击/苹果攻击_73.png" id="14_5kgg2"]
+[ext_resource type="Texture2D" uid="uid://bfirns0irc56e" path="res://assets/pets/苹果攻击/苹果攻击_74.png" id="15_73160"]
+[ext_resource type="Texture2D" uid="uid://8qtfslrlfg23" path="res://assets/pets/苹果攻击/苹果攻击_75.png" id="16_oa4n0"]
+[ext_resource type="Texture2D" uid="uid://blkajroxn4lx" path="res://assets/pets/苹果攻击/苹果攻击_76.png" id="17_xkrjc"]
+[ext_resource type="Texture2D" uid="uid://cilae215sj2b4" path="res://assets/pets/苹果攻击/苹果攻击_77.png" id="18_7yxxe"]
+[ext_resource type="Texture2D" uid="uid://cwmghrbdochue" path="res://assets/pets/苹果攻击/苹果攻击_78.png" id="19_5hd74"]
+[ext_resource type="Texture2D" uid="uid://bntx3usrpv71w" path="res://assets/pets/苹果攻击/苹果攻击_79.png" id="20_m7to4"]
+[ext_resource type="Texture2D" uid="uid://cxm8afxc6vkq7" path="res://assets/pets/苹果攻击/苹果攻击_80.png" id="21_qvq8i"]
+[ext_resource type="Texture2D" uid="uid://brddn27tewqks" path="res://assets/pets/苹果攻击/苹果攻击_81.png" id="22_hxhm6"]
+[ext_resource type="Texture2D" uid="uid://dg84754uk100h" path="res://assets/pets/苹果攻击/苹果攻击_82.png" id="23_ijyhr"]
+[ext_resource type="Texture2D" uid="uid://cs3nxj0kp1cnp" path="res://assets/pets/苹果攻击/苹果攻击_83.png" id="24_y5p7d"]
+[ext_resource type="Texture2D" uid="uid://djyjtv862higc" path="res://assets/pets/苹果攻击/苹果攻击_84.png" id="25_odmie"]
+[ext_resource type="Texture2D" uid="uid://cv02453wylo6w" path="res://assets/pets/苹果攻击/苹果攻击_85.png" id="26_3fy8u"]
+[ext_resource type="Texture2D" uid="uid://bd32oo5kg3ymj" path="res://assets/pets/苹果攻击/苹果攻击_86.png" id="27_f5vip"]
+[ext_resource type="Texture2D" uid="uid://dfx5j2j4eimo1" path="res://assets/pets/苹果攻击/苹果攻击_87.png" id="28_6inq4"]
+[ext_resource type="Texture2D" uid="uid://46pspg8dwhej" path="res://assets/pets/苹果攻击/苹果攻击_88.png" id="29_xsh5w"]
+[ext_resource type="Texture2D" uid="uid://hwm5y0bgfpiy" path="res://assets/pets/苹果攻击/苹果攻击_89.png" id="30_qv307"]
+[ext_resource type="Texture2D" uid="uid://ln4on1hfh5kx" path="res://assets/pets/苹果攻击/苹果攻击_90.png" id="31_eo88m"]
+[ext_resource type="Texture2D" uid="uid://dt0ceubpwbm4t" path="res://assets/pets/苹果攻击/苹果攻击_91.png" id="32_6l0ge"]
+[ext_resource type="Texture2D" uid="uid://c20u7ptsxeh66" path="res://assets/pets/苹果攻击/苹果攻击_92.png" id="33_iyti1"]
+[ext_resource type="Texture2D" uid="uid://donnfqodrnd3q" path="res://assets/pets/苹果待机/苹果待机_000.png" id="34_p8kgt"]
+[ext_resource type="Texture2D" uid="uid://8jj14sedrnjs" path="res://assets/pets/苹果待机/苹果待机_001.png" id="35_7btob"]
+[ext_resource type="Texture2D" uid="uid://db486vssag8so" path="res://assets/pets/苹果待机/苹果待机_002.png" id="36_lrpgm"]
+[ext_resource type="Texture2D" uid="uid://eh4wluap158s" path="res://assets/pets/苹果待机/苹果待机_003.png" id="37_janhw"]
+[ext_resource type="Texture2D" uid="uid://vlu2vwa20bcx" path="res://assets/pets/苹果待机/苹果待机_004.png" id="38_2rwvb"]
+[ext_resource type="Texture2D" uid="uid://bcm4hv7wqmw0h" path="res://assets/pets/苹果待机/苹果待机_005.png" id="39_dpcbr"]
+[ext_resource type="Texture2D" uid="uid://l3bcjyyil1fi" path="res://assets/pets/苹果待机/苹果待机_006.png" id="40_0thl8"]
+[ext_resource type="Texture2D" uid="uid://5dvfxyim00kt" path="res://assets/pets/苹果待机/苹果待机_007.png" id="41_fvo2f"]
+[ext_resource type="Texture2D" uid="uid://fanvn2fvl8jj" path="res://assets/pets/苹果待机/苹果待机_008.png" id="42_xdooo"]
+[ext_resource type="Texture2D" uid="uid://bw7ilmdep423s" path="res://assets/pets/苹果待机/苹果待机_009.png" id="43_rs332"]
+[ext_resource type="Texture2D" uid="uid://c53psladop5np" path="res://assets/pets/苹果待机/苹果待机_010.png" id="44_b2ert"]
+[ext_resource type="Texture2D" uid="uid://crnfe8bsdnp36" path="res://assets/pets/苹果待机/苹果待机_011.png" id="45_vv6ad"]
+[ext_resource type="Texture2D" uid="uid://cvr5uu6bmq0xw" path="res://assets/pets/苹果待机/苹果待机_012.png" id="46_53pin"]
+[ext_resource type="Texture2D" uid="uid://clxe13wyyajr6" path="res://assets/pets/苹果待机/苹果待机_013.png" id="47_4ckm2"]
+[ext_resource type="Texture2D" uid="uid://dlj5c5hvrkjs" path="res://assets/pets/苹果待机/苹果待机_014.png" id="48_7j282"]
+[ext_resource type="Texture2D" uid="uid://dlu2peq24mb4p" path="res://assets/pets/苹果待机/苹果待机_015.png" id="49_u7l2l"]
+[ext_resource type="Texture2D" uid="uid://bskugynb5h2ef" path="res://assets/pets/苹果待机/苹果待机_016.png" id="50_pg0yu"]
+[ext_resource type="Texture2D" uid="uid://35l4fba5wb3s" path="res://assets/pets/苹果待机/苹果待机_017.png" id="51_gtasn"]
+[ext_resource type="Texture2D" uid="uid://ppc47tritr2t" path="res://assets/pets/苹果待机/苹果待机_018.png" id="52_jqqtx"]
+[ext_resource type="Texture2D" uid="uid://dqeki4v0ovxp6" path="res://assets/pets/苹果待机/苹果待机_019.png" id="53_f1o4n"]
+[ext_resource type="Texture2D" uid="uid://5pke6igqk0a2" path="res://assets/pets/苹果待机/苹果待机_020.png" id="54_t6p30"]
+[ext_resource type="Texture2D" uid="uid://dguxfd8siobba" path="res://assets/pets/苹果待机/苹果待机_021.png" id="55_lv635"]
+[ext_resource type="Texture2D" uid="uid://cyvhna3v70cs6" path="res://assets/pets/苹果待机/苹果待机_022.png" id="56_xrbec"]
+[ext_resource type="Texture2D" uid="uid://b4u03gidghp67" path="res://assets/pets/苹果待机/苹果待机_023.png" id="57_gkkww"]
+[ext_resource type="Texture2D" uid="uid://jegwyl2weog2" path="res://assets/pets/苹果待机/苹果待机_024.png" id="58_1rm16"]
+[ext_resource type="Texture2D" uid="uid://dibsh8cmsmhxq" path="res://assets/pets/苹果待机/苹果待机_025.png" id="59_usbeq"]
+[ext_resource type="Texture2D" uid="uid://bsnykmpj857fi" path="res://assets/pets/苹果待机/苹果待机_026.png" id="60_eataa"]
+[ext_resource type="Texture2D" uid="uid://cvudvdaloip8u" path="res://assets/pets/苹果待机/苹果待机_027.png" id="61_mtlr0"]
+[ext_resource type="Texture2D" uid="uid://3n6voi1o5lji" path="res://assets/pets/苹果待机/苹果待机_028.png" id="62_31r7u"]
+[ext_resource type="Texture2D" uid="uid://ndvqvna8je0" path="res://assets/pets/苹果待机/苹果待机_029.png" id="63_k3jt8"]
+[ext_resource type="Texture2D" uid="uid://bs3o3mb8euqu5" path="res://assets/pets/苹果待机/苹果待机_030.png" id="64_bf1mx"]
+[ext_resource type="Texture2D" uid="uid://bvsh7qvmuvyyr" path="res://assets/pets/苹果待机/苹果待机_031.png" id="65_m13pr"]
+[ext_resource type="Texture2D" uid="uid://dtk5uhom4vswd" path="res://assets/pets/苹果待机/苹果待机_032.png" id="66_ew4wt"]
+[ext_resource type="Texture2D" uid="uid://cpeg7q2bbofey" path="res://assets/pets/苹果待机/苹果待机_033.png" id="67_bj88j"]
+[ext_resource type="Texture2D" uid="uid://cq1i0hw86up04" path="res://assets/pets/苹果待机/苹果待机_034.png" id="68_x6l7v"]
+[ext_resource type="Texture2D" uid="uid://dsoktdv88bhlq" path="res://assets/pets/苹果待机/苹果待机_035.png" id="69_0jgih"]
+[ext_resource type="Texture2D" uid="uid://d3muh612cw3od" path="res://assets/pets/苹果待机/苹果待机_036.png" id="70_3sirm"]
+[ext_resource type="Texture2D" uid="uid://bo31pf18f5e7" path="res://assets/pets/苹果待机/苹果待机_037.png" id="71_ownhq"]
+[ext_resource type="Texture2D" uid="uid://d4l6wnwbgikhs" path="res://assets/pets/苹果待机/苹果待机_038.png" id="72_bw4rt"]
+[ext_resource type="Texture2D" uid="uid://clwsg3u2anpla" path="res://assets/pets/苹果待机/苹果待机_039.png" id="73_t1fm5"]
+[ext_resource type="Texture2D" uid="uid://dk8cx5y4vnp4j" path="res://assets/pets/苹果待机/苹果待机_040.png" id="74_dxs1e"]
+[ext_resource type="Texture2D" uid="uid://5oek47w0mw53" path="res://assets/pets/苹果待机/苹果待机_041.png" id="75_lj7ad"]
+[ext_resource type="Texture2D" uid="uid://dq0tinr512vka" path="res://assets/pets/苹果待机/苹果待机_042.png" id="76_fft3a"]
+[ext_resource type="Texture2D" uid="uid://dbbskogdm0syf" path="res://assets/pets/苹果待机/苹果待机_043.png" id="77_oiomd"]
+[ext_resource type="Texture2D" uid="uid://dxhx38squan60" path="res://assets/pets/苹果待机/苹果待机_044.png" id="78_vux4q"]
+[ext_resource type="Texture2D" uid="uid://dwg6m5bi7xsnr" path="res://assets/pets/苹果待机/苹果待机_045.png" id="79_th5pc"]
+[ext_resource type="Texture2D" uid="uid://ckfcgb25mp4cm" path="res://assets/pets/苹果待机/苹果待机_046.png" id="80_35l2i"]
+[ext_resource type="Texture2D" uid="uid://b6ot1gldvipw3" path="res://assets/pets/苹果待机/苹果待机_047.png" id="81_o4n38"]
+[ext_resource type="Texture2D" uid="uid://hh3tgi7gxdth" path="res://assets/pets/苹果待机/苹果待机_048.png" id="82_8syox"]
+[ext_resource type="Texture2D" uid="uid://be6chlft8j2yk" path="res://assets/pets/苹果待机/苹果待机_049.png" id="83_372ax"]
+[ext_resource type="Texture2D" uid="uid://dchtqhhsjpk2k" path="res://assets/pets/苹果待机/苹果待机_050.png" id="84_tb52i"]
+[ext_resource type="Texture2D" uid="uid://b7tutityoxk4v" path="res://assets/pets/苹果待机/苹果待机_051.png" id="85_ld04g"]
+[ext_resource type="Texture2D" uid="uid://b1dmqrnam75au" path="res://assets/pets/苹果待机/苹果待机_052.png" id="86_r2k1l"]
+[ext_resource type="Texture2D" uid="uid://tgsl3l5luiq" path="res://assets/pets/苹果待机/苹果待机_053.png" id="87_b5qv5"]
+[ext_resource type="Texture2D" uid="uid://b3j1vvillj5j7" path="res://assets/pets/苹果待机/苹果待机_054.png" id="88_nvp2f"]
+[ext_resource type="Texture2D" uid="uid://dbe0jcch1nrqw" path="res://assets/pets/苹果待机/苹果待机_055.png" id="89_ihmka"]
+[ext_resource type="Texture2D" uid="uid://cekv54k8yab4e" path="res://assets/pets/苹果待机/苹果待机_056.png" id="90_w4ja3"]
+[ext_resource type="Texture2D" uid="uid://4vtwwjrydrwo" path="res://assets/pets/苹果待机/苹果待机_057.png" id="91_j72d5"]
+[ext_resource type="Texture2D" uid="uid://c0ktoch2ye2h8" path="res://assets/pets/苹果待机/苹果待机_058.png" id="92_l0637"]
+[ext_resource type="Texture2D" uid="uid://bfs8meo74a3yr" path="res://assets/pets/苹果待机/苹果待机_059.png" id="93_dpdkv"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_wdk60")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_1htdo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_ai0g5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_frgdy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_7sr0x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_ak35d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_i12gy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_fmwnb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_kgghk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_de24v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_w2klo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_kumpi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_6xxa5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_5kgg2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_73160")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_oa4n0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_xkrjc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_7yxxe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_5hd74")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_m7to4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_qvq8i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_hxhm6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_ijyhr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_y5p7d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_odmie")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_3fy8u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_f5vip")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_6inq4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_xsh5w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_qv307")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_eo88m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_6l0ge")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_iyti1")
+}],
+"loop": true,
+"name": &"appleattack",
+"speed": 60.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("34_p8kgt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_7btob")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_lrpgm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_janhw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_2rwvb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_dpcbr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_0thl8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_fvo2f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_xdooo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_rs332")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_b2ert")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_vv6ad")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_53pin")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_4ckm2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_7j282")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_u7l2l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_pg0yu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_gtasn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_jqqtx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_f1o4n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_t6p30")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_lv635")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_xrbec")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_gkkww")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_1rm16")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_usbeq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_eataa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_mtlr0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_31r7u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_k3jt8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_bf1mx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_m13pr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_ew4wt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_bj88j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_x6l7v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_0jgih")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_3sirm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_ownhq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_bw4rt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_t1fm5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_dxs1e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_lj7ad")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_fft3a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_oiomd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_vux4q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_th5pc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_35l2i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_o4n38")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_8syox")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_372ax")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_tb52i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_ld04g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_r2k1l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_b5qv5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_nvp2f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_ihmka")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_w4ja3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_j72d5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_l0637")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_dpdkv")
+}],
+"loop": true,
+"name": &"appleidle",
+"speed": 30.0
+}]

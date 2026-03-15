@@ -1,0 +1,130 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://ca7f7o6cjaju6"]
+
+[ext_resource type="Texture2D" uid="uid://bpkikojxm7q2m" path="res://assets/pets/小番茄待机/小番茄待机_00.png" id="1_jbr27"]
+[ext_resource type="Texture2D" uid="uid://jf1afqw1pqve" path="res://assets/pets/小番茄待机/小番茄待机_01.png" id="2_2l783"]
+[ext_resource type="Texture2D" uid="uid://dwjv5f7ixmmy7" path="res://assets/pets/小番茄待机/小番茄待机_02.png" id="3_sautr"]
+[ext_resource type="Texture2D" uid="uid://bnjmmj4tsm3hp" path="res://assets/pets/小番茄待机/小番茄待机_03.png" id="4_2jcjs"]
+[ext_resource type="Texture2D" uid="uid://d07igfhkbjsby" path="res://assets/pets/小番茄待机/小番茄待机_04.png" id="5_b22qi"]
+[ext_resource type="Texture2D" uid="uid://bumpgv0tlrc1g" path="res://assets/pets/小番茄待机/小番茄待机_05.png" id="6_ai812"]
+[ext_resource type="Texture2D" uid="uid://bgrghsv71fcew" path="res://assets/pets/小番茄待机/小番茄待机_06.png" id="7_o5ign"]
+[ext_resource type="Texture2D" uid="uid://ckdethu8xkssg" path="res://assets/pets/小番茄待机/小番茄待机_07.png" id="8_8c7it"]
+[ext_resource type="Texture2D" uid="uid://bsuaueyrdb80i" path="res://assets/pets/小番茄待机/小番茄待机_08.png" id="9_slrp3"]
+[ext_resource type="Texture2D" uid="uid://cnc65smq71oge" path="res://assets/pets/小番茄待机/小番茄待机_09.png" id="10_7ihxk"]
+[ext_resource type="Texture2D" uid="uid://cgr5nsjdw6idt" path="res://assets/pets/小番茄待机/小番茄待机_10.png" id="11_rt8g3"]
+[ext_resource type="Texture2D" uid="uid://dqgm8e6bir37c" path="res://assets/pets/小番茄待机/小番茄待机_11.png" id="12_38e8f"]
+[ext_resource type="Texture2D" uid="uid://c5pf3i0t8qlqk" path="res://assets/pets/小番茄待机/小番茄待机_12.png" id="13_p7vsi"]
+[ext_resource type="Texture2D" uid="uid://bbdjsplavwt0r" path="res://assets/pets/小番茄待机/小番茄待机_13.png" id="14_sr14f"]
+[ext_resource type="Texture2D" uid="uid://bop3pa6n10qp5" path="res://assets/pets/小番茄待机/小番茄待机_14.png" id="15_tigoe"]
+[ext_resource type="Texture2D" uid="uid://bxdoasm3lrp87" path="res://assets/pets/小番茄待机/小番茄待机_15.png" id="16_jj6n1"]
+[ext_resource type="Texture2D" uid="uid://bi41guni4xe05" path="res://assets/pets/小番茄待机/小番茄待机_16.png" id="17_8dkqj"]
+[ext_resource type="Texture2D" uid="uid://dmn3b5ab2vgbv" path="res://assets/pets/小番茄待机/小番茄待机_17.png" id="18_cmbym"]
+[ext_resource type="Texture2D" uid="uid://cucju2va1t4sd" path="res://assets/pets/小番茄待机/小番茄待机_18.png" id="19_csqse"]
+[ext_resource type="Texture2D" uid="uid://bwa8gf0qo7a4i" path="res://assets/pets/小番茄待机/小番茄待机_19.png" id="20_fivio"]
+[ext_resource type="Texture2D" uid="uid://d3y3fggna63aw" path="res://assets/pets/小番茄待机/小番茄待机_20.png" id="21_u0hst"]
+[ext_resource type="Texture2D" uid="uid://de3drvfqdxfg3" path="res://assets/pets/小番茄待机/小番茄待机_21.png" id="22_1ghr8"]
+[ext_resource type="Texture2D" uid="uid://cb7y5w3opbkdh" path="res://assets/pets/小番茄待机/小番茄待机_22.png" id="23_r48vy"]
+[ext_resource type="Texture2D" uid="uid://jtctkjl103ih" path="res://assets/pets/小番茄待机/小番茄待机_23.png" id="24_hgqng"]
+[ext_resource type="Texture2D" uid="uid://d01cnuuvlnm6f" path="res://assets/pets/小番茄待机/小番茄待机_24.png" id="25_b5xdd"]
+[ext_resource type="Texture2D" uid="uid://jl3nq5hfgyr7" path="res://assets/pets/小番茄待机/小番茄待机_25.png" id="26_5mm2g"]
+[ext_resource type="Texture2D" uid="uid://bin20ojxden56" path="res://assets/pets/小番茄待机/小番茄待机_26.png" id="27_xqvry"]
+[ext_resource type="Texture2D" uid="uid://b7a0q5mc14l4t" path="res://assets/pets/小番茄待机/小番茄待机_27.png" id="28_17nua"]
+[ext_resource type="Texture2D" uid="uid://c8jwqg2nt1ell" path="res://assets/pets/小番茄待机/小番茄待机_28.png" id="29_5mdxy"]
+[ext_resource type="Texture2D" uid="uid://b50ysyaunypl8" path="res://assets/pets/小番茄待机/小番茄待机_29.png" id="30_x4jpy"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_jbr27")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_2l783")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_sautr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_2jcjs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_b22qi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_ai812")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_o5ign")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_8c7it")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_slrp3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_7ihxk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_rt8g3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_38e8f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_p7vsi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_sr14f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_tigoe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_jj6n1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_8dkqj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_cmbym")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_csqse")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_fivio")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_u0hst")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_1ghr8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_r48vy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_hgqng")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_b5xdd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_5mm2g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_xqvry")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_17nua")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_5mdxy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_x4jpy")
+}],
+"loop": true,
+"name": &"tomatoidle",
+"speed": 30.0
+}]

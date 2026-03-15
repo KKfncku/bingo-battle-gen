@@ -1,0 +1,319 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://diowatvokkckn"]
+
+[ext_resource type="Texture2D" uid="uid://bb83sf7ocpcha" path="res://assets/pets/石榴攻击/石榴攻击_00.png" id="1_q58mq"]
+[ext_resource type="Texture2D" uid="uid://bxr8trq4ed2rs" path="res://assets/pets/石榴攻击/石榴攻击_01.png" id="2_4a05y"]
+[ext_resource type="Texture2D" uid="uid://dvlbdudx1xwhn" path="res://assets/pets/石榴攻击/石榴攻击_02.png" id="3_3vw6c"]
+[ext_resource type="Texture2D" uid="uid://cjyhdibk4o6hm" path="res://assets/pets/石榴攻击/石榴攻击_03.png" id="4_30we8"]
+[ext_resource type="Texture2D" uid="uid://dqq1hiy2ddpge" path="res://assets/pets/石榴攻击/石榴攻击_04.png" id="5_rdfdo"]
+[ext_resource type="Texture2D" uid="uid://dj4pj8irdqtg5" path="res://assets/pets/石榴攻击/石榴攻击_05.png" id="6_ixvu1"]
+[ext_resource type="Texture2D" uid="uid://dmt1e3hkuwdsk" path="res://assets/pets/石榴攻击/石榴攻击_06.png" id="7_rorp6"]
+[ext_resource type="Texture2D" uid="uid://boxv6v57wkqh7" path="res://assets/pets/石榴攻击/石榴攻击_07.png" id="8_lhsx8"]
+[ext_resource type="Texture2D" uid="uid://d2jt700yom5m6" path="res://assets/pets/石榴攻击/石榴攻击_08.png" id="9_es8pt"]
+[ext_resource type="Texture2D" uid="uid://bvdx2nckvy16g" path="res://assets/pets/石榴攻击/石榴攻击_09.png" id="10_0ji7c"]
+[ext_resource type="Texture2D" uid="uid://dbnwdi3xyli71" path="res://assets/pets/石榴攻击/石榴攻击_10.png" id="11_fqtnn"]
+[ext_resource type="Texture2D" uid="uid://cltxwn4e7h1y6" path="res://assets/pets/石榴攻击/石榴攻击_11.png" id="12_lpdpi"]
+[ext_resource type="Texture2D" uid="uid://bgdy1pbqsrdqq" path="res://assets/pets/石榴攻击/石榴攻击_12.png" id="13_bepb2"]
+[ext_resource type="Texture2D" uid="uid://cofecn358f0m4" path="res://assets/pets/石榴攻击/石榴攻击_13.png" id="14_3c1ek"]
+[ext_resource type="Texture2D" uid="uid://cm70qr1k4i4d4" path="res://assets/pets/石榴攻击/石榴攻击_14.png" id="15_uuvpb"]
+[ext_resource type="Texture2D" uid="uid://c7k46lmfpdml5" path="res://assets/pets/石榴攻击/石榴攻击_15.png" id="16_fjxh6"]
+[ext_resource type="Texture2D" uid="uid://bym0r6aua5jqw" path="res://assets/pets/石榴攻击/石榴攻击_16.png" id="17_0xdya"]
+[ext_resource type="Texture2D" uid="uid://si5qthg6qt1u" path="res://assets/pets/石榴攻击/石榴攻击_17.png" id="18_cow1t"]
+[ext_resource type="Texture2D" uid="uid://e80rdj6os2hp" path="res://assets/pets/石榴攻击/石榴攻击_18.png" id="19_b8yja"]
+[ext_resource type="Texture2D" uid="uid://bboos245ny8wv" path="res://assets/pets/石榴攻击/石榴攻击_19.png" id="20_5otce"]
+[ext_resource type="Texture2D" uid="uid://ctx73oppec7xp" path="res://assets/pets/石榴攻击/石榴攻击_20.png" id="21_mkyrn"]
+[ext_resource type="Texture2D" uid="uid://drqe7nyx51riy" path="res://assets/pets/石榴攻击/石榴攻击_21.png" id="22_2aku4"]
+[ext_resource type="Texture2D" uid="uid://n34lr80bboht" path="res://assets/pets/石榴攻击/石榴攻击_22.png" id="23_84mnq"]
+[ext_resource type="Texture2D" uid="uid://bc0r1m1yden0q" path="res://assets/pets/石榴攻击/石榴攻击_23.png" id="24_1sv33"]
+[ext_resource type="Texture2D" uid="uid://cb4cg6dsawttv" path="res://assets/pets/石榴攻击/石榴攻击_24.png" id="25_n2xkx"]
+[ext_resource type="Texture2D" uid="uid://dn05ywt0p4v1c" path="res://assets/pets/石榴攻击/石榴攻击_25.png" id="26_1yn6q"]
+[ext_resource type="Texture2D" uid="uid://brfgs7830tj4q" path="res://assets/pets/石榴攻击/石榴攻击_26.png" id="27_2o4uc"]
+[ext_resource type="Texture2D" uid="uid://pvvb768uxw5r" path="res://assets/pets/石榴攻击/石榴攻击_27.png" id="28_nlxtn"]
+[ext_resource type="Texture2D" uid="uid://b2vnxdhjqgarv" path="res://assets/pets/石榴攻击/石榴攻击_28.png" id="29_tye2e"]
+[ext_resource type="Texture2D" uid="uid://c4sjjdhsexyls" path="res://assets/pets/石榴攻击/石榴攻击_29.png" id="30_031xp"]
+[ext_resource type="Texture2D" uid="uid://q22n6xc8laqt" path="res://assets/pets/石榴攻击/石榴攻击_30.png" id="31_y6eku"]
+[ext_resource type="Texture2D" uid="uid://kyc77fiebvbs" path="res://assets/pets/石榴攻击/石榴攻击_31.png" id="32_g0lgx"]
+[ext_resource type="Texture2D" uid="uid://byuvdol2faybn" path="res://assets/pets/石榴攻击/石榴攻击_32.png" id="33_2sfa7"]
+[ext_resource type="Texture2D" uid="uid://dfja2dsf5txcb" path="res://assets/pets/石榴攻击/石榴攻击_33.png" id="34_n2wv6"]
+[ext_resource type="Texture2D" uid="uid://c4nhvit0dhb2x" path="res://assets/pets/石榴攻击/石榴攻击_34.png" id="35_phyq8"]
+[ext_resource type="Texture2D" uid="uid://dd37p8cwaa3p" path="res://assets/pets/石榴攻击/石榴攻击_35.png" id="36_50lk7"]
+[ext_resource type="Texture2D" uid="uid://c1cbhw141wum4" path="res://assets/pets/石榴攻击/石榴攻击_36.png" id="37_t5vgw"]
+[ext_resource type="Texture2D" uid="uid://ckikn41oaiufk" path="res://assets/pets/石榴攻击/石榴攻击_37.png" id="38_g1iqf"]
+[ext_resource type="Texture2D" uid="uid://d0e32uihc1var" path="res://assets/pets/石榴攻击/石榴攻击_38.png" id="39_ktr2m"]
+[ext_resource type="Texture2D" uid="uid://bcqenbfxft4cq" path="res://assets/pets/石榴攻击/石榴攻击_39.png" id="40_stcxa"]
+[ext_resource type="Texture2D" uid="uid://brpqjfu4cphbb" path="res://assets/pets/石榴攻击/石榴攻击_40.png" id="41_oo0ip"]
+[ext_resource type="Texture2D" uid="uid://bs7x8u4at458m" path="res://assets/pets/石榴攻击/石榴攻击_41.png" id="42_ad5ne"]
+[ext_resource type="Texture2D" uid="uid://b6jbgtd4j0f4r" path="res://assets/pets/石榴攻击/石榴攻击_42.png" id="43_osdbk"]
+[ext_resource type="Texture2D" uid="uid://35neobawpyps" path="res://assets/pets/石榴攻击/石榴攻击_43.png" id="44_esmu6"]
+[ext_resource type="Texture2D" uid="uid://dox32sr8unr7h" path="res://assets/pets/石榴攻击/石榴攻击_44.png" id="45_84f4b"]
+[ext_resource type="Texture2D" uid="uid://e8c6yud8xnyu" path="res://assets/pets/石榴攻击/石榴攻击_45.png" id="46_d1pml"]
+[ext_resource type="Texture2D" uid="uid://dwhtrr0l11q0h" path="res://assets/pets/石榴待机/石榴待机_00.png" id="47_y6eku"]
+[ext_resource type="Texture2D" uid="uid://c1l0cbxppx0oc" path="res://assets/pets/石榴待机/石榴待机_01.png" id="48_g0lgx"]
+[ext_resource type="Texture2D" uid="uid://5ug5n5e38rnh" path="res://assets/pets/石榴待机/石榴待机_02.png" id="49_2sfa7"]
+[ext_resource type="Texture2D" uid="uid://v0jsbby25riv" path="res://assets/pets/石榴待机/石榴待机_03.png" id="50_n2wv6"]
+[ext_resource type="Texture2D" uid="uid://cfqwjj3wopf7k" path="res://assets/pets/石榴待机/石榴待机_04.png" id="51_phyq8"]
+[ext_resource type="Texture2D" uid="uid://dmuykf4tg0caf" path="res://assets/pets/石榴待机/石榴待机_05.png" id="52_50lk7"]
+[ext_resource type="Texture2D" uid="uid://cvg5sjfkhvrof" path="res://assets/pets/石榴待机/石榴待机_06.png" id="53_t5vgw"]
+[ext_resource type="Texture2D" uid="uid://dcs3dhwe3k17h" path="res://assets/pets/石榴待机/石榴待机_07.png" id="54_g1iqf"]
+[ext_resource type="Texture2D" uid="uid://cqgs631fjfklc" path="res://assets/pets/石榴待机/石榴待机_08.png" id="55_ktr2m"]
+[ext_resource type="Texture2D" uid="uid://dc408lluc7me4" path="res://assets/pets/石榴待机/石榴待机_09.png" id="56_stcxa"]
+[ext_resource type="Texture2D" uid="uid://bq6b4k4bp34s0" path="res://assets/pets/石榴待机/石榴待机_10.png" id="57_oo0ip"]
+[ext_resource type="Texture2D" uid="uid://bp5o1baomw0dh" path="res://assets/pets/石榴待机/石榴待机_11.png" id="58_ad5ne"]
+[ext_resource type="Texture2D" uid="uid://d3j5ig0yjxrlb" path="res://assets/pets/石榴待机/石榴待机_12.png" id="59_osdbk"]
+[ext_resource type="Texture2D" uid="uid://b8hecg8d1601" path="res://assets/pets/石榴待机/石榴待机_13.png" id="60_esmu6"]
+[ext_resource type="Texture2D" uid="uid://b3qe0s6skxtvr" path="res://assets/pets/石榴待机/石榴待机_14.png" id="61_84f4b"]
+[ext_resource type="Texture2D" uid="uid://chv3i4ajppr3r" path="res://assets/pets/石榴待机/石榴待机_15.png" id="62_d1pml"]
+[ext_resource type="Texture2D" uid="uid://d1fvsghpy1o5r" path="res://assets/pets/石榴待机/石榴待机_16.png" id="63_ut24n"]
+[ext_resource type="Texture2D" uid="uid://jng40h0u57hn" path="res://assets/pets/石榴待机/石榴待机_17.png" id="64_fujxx"]
+[ext_resource type="Texture2D" uid="uid://clctglho3d6ve" path="res://assets/pets/石榴待机/石榴待机_18.png" id="65_j2vnf"]
+[ext_resource type="Texture2D" uid="uid://dq7pn13lrxied" path="res://assets/pets/石榴待机/石榴待机_19.png" id="66_ni3i1"]
+[ext_resource type="Texture2D" uid="uid://cr1knrh4oj348" path="res://assets/pets/石榴待机/石榴待机_20.png" id="67_j2g40"]
+[ext_resource type="Texture2D" uid="uid://dp4gm28onntag" path="res://assets/pets/石榴待机/石榴待机_21.png" id="68_f0hqk"]
+[ext_resource type="Texture2D" uid="uid://b5ysyihoo7bbu" path="res://assets/pets/石榴待机/石榴待机_22.png" id="69_punn6"]
+[ext_resource type="Texture2D" uid="uid://csu53r5p17ajc" path="res://assets/pets/石榴待机/石榴待机_23.png" id="70_01odx"]
+[ext_resource type="Texture2D" uid="uid://cpmkcnt8ec7lb" path="res://assets/pets/石榴待机/石榴待机_24.png" id="71_f606f"]
+[ext_resource type="Texture2D" uid="uid://dfmg0dr47otym" path="res://assets/pets/石榴待机/石榴待机_25.png" id="72_bngk4"]
+[ext_resource type="Texture2D" uid="uid://6sh8rlhtdey0" path="res://assets/pets/石榴待机/石榴待机_26.png" id="73_uvsdh"]
+[ext_resource type="Texture2D" uid="uid://idpntn0vod6r" path="res://assets/pets/石榴待机/石榴待机_27.png" id="74_lryxd"]
+[ext_resource type="Texture2D" uid="uid://dj3hysa51r6it" path="res://assets/pets/石榴待机/石榴待机_28.png" id="75_g6tbl"]
+[ext_resource type="Texture2D" uid="uid://hlq0n7ctro4x" path="res://assets/pets/石榴待机/石榴待机_29.png" id="76_shod1"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_q58mq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_4a05y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_3vw6c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_30we8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_rdfdo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_ixvu1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_rorp6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_lhsx8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_es8pt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_0ji7c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_fqtnn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_lpdpi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_bepb2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_3c1ek")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_uuvpb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_fjxh6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_0xdya")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_cow1t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_b8yja")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_5otce")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_mkyrn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_2aku4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_84mnq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_1sv33")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_n2xkx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_1yn6q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_2o4uc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_nlxtn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_tye2e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_031xp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_y6eku")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_g0lgx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_2sfa7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_n2wv6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_phyq8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_50lk7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_t5vgw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_g1iqf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_ktr2m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_stcxa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_oo0ip")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_ad5ne")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_osdbk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_esmu6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_84f4b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_d1pml")
+}],
+"loop": true,
+"name": &"pomegranateattack",
+"speed": 60.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("47_y6eku")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_g0lgx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_2sfa7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_n2wv6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_phyq8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_50lk7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_t5vgw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_g1iqf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_ktr2m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_stcxa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_oo0ip")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_ad5ne")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_osdbk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_esmu6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_84f4b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_d1pml")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_ut24n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_fujxx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_j2vnf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_ni3i1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_j2g40")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_f0hqk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_punn6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_01odx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_f606f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_bngk4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_uvsdh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_lryxd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_g6tbl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_shod1")
+}],
+"loop": true,
+"name": &"pomegranateidle",
+"speed": 30.0
+}]

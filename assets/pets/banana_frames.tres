@@ -1,0 +1,635 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://dyo6q7grdq3oq"]
+
+[ext_resource type="Texture2D" uid="uid://xyq0xei7y5gi" path="res://assets/pets/香蕉攻击/香蕉攻击_00.png" id="1_qprtm"]
+[ext_resource type="Texture2D" uid="uid://cdalu6f288c43" path="res://assets/pets/香蕉攻击/香蕉攻击_01.png" id="2_86h6h"]
+[ext_resource type="Texture2D" uid="uid://ctku7rpq6e7qh" path="res://assets/pets/香蕉攻击/香蕉攻击_02.png" id="3_1tir0"]
+[ext_resource type="Texture2D" uid="uid://cfo2xpn128gxp" path="res://assets/pets/香蕉攻击/香蕉攻击_03.png" id="4_siq42"]
+[ext_resource type="Texture2D" uid="uid://dkx5ge6rhf6t1" path="res://assets/pets/香蕉攻击/香蕉攻击_04.png" id="5_4a8gj"]
+[ext_resource type="Texture2D" uid="uid://cw3aobsefc5oe" path="res://assets/pets/香蕉攻击/香蕉攻击_05.png" id="6_rnufh"]
+[ext_resource type="Texture2D" uid="uid://bk5lfgj8syfxp" path="res://assets/pets/香蕉攻击/香蕉攻击_06.png" id="7_5chsh"]
+[ext_resource type="Texture2D" uid="uid://c5qio2v7ks7xv" path="res://assets/pets/香蕉攻击/香蕉攻击_07.png" id="8_ygi54"]
+[ext_resource type="Texture2D" uid="uid://u072e2uon5lp" path="res://assets/pets/香蕉攻击/香蕉攻击_08.png" id="9_jir2o"]
+[ext_resource type="Texture2D" uid="uid://hb85qup8cpfh" path="res://assets/pets/香蕉攻击/香蕉攻击_09.png" id="10_wv18v"]
+[ext_resource type="Texture2D" uid="uid://bwhsmfl5d4qk5" path="res://assets/pets/香蕉攻击/香蕉攻击_10.png" id="11_yutuv"]
+[ext_resource type="Texture2D" uid="uid://c70u80vqfhdcn" path="res://assets/pets/香蕉攻击/香蕉攻击_11.png" id="12_8rq1v"]
+[ext_resource type="Texture2D" uid="uid://cc72nk24jh55b" path="res://assets/pets/香蕉攻击/香蕉攻击_12.png" id="13_l01rf"]
+[ext_resource type="Texture2D" uid="uid://bbxkqg2gvj6qw" path="res://assets/pets/香蕉攻击/香蕉攻击_13.png" id="14_1oykm"]
+[ext_resource type="Texture2D" uid="uid://c3dnb0dooij1y" path="res://assets/pets/香蕉攻击/香蕉攻击_14.png" id="15_ne7fe"]
+[ext_resource type="Texture2D" uid="uid://bct25w0v28fpy" path="res://assets/pets/香蕉攻击/香蕉攻击_15.png" id="16_vvoc7"]
+[ext_resource type="Texture2D" uid="uid://cptlfs6rfkh0g" path="res://assets/pets/香蕉攻击/香蕉攻击_16.png" id="17_skkdq"]
+[ext_resource type="Texture2D" uid="uid://b48vvwocadn0d" path="res://assets/pets/香蕉攻击/香蕉攻击_17.png" id="18_go6hw"]
+[ext_resource type="Texture2D" uid="uid://dj2jbqgvakk15" path="res://assets/pets/香蕉攻击/香蕉攻击_18.png" id="19_g24o8"]
+[ext_resource type="Texture2D" uid="uid://n3idjm5q3rvm" path="res://assets/pets/香蕉攻击/香蕉攻击_19.png" id="20_dtlgd"]
+[ext_resource type="Texture2D" uid="uid://dw67xv17ecm8v" path="res://assets/pets/香蕉攻击/香蕉攻击_20.png" id="21_ugk51"]
+[ext_resource type="Texture2D" uid="uid://bnysdlgbn05j3" path="res://assets/pets/香蕉攻击/香蕉攻击_21.png" id="22_f8ku6"]
+[ext_resource type="Texture2D" uid="uid://hukeoatnua0t" path="res://assets/pets/香蕉攻击/香蕉攻击_22.png" id="23_u0sed"]
+[ext_resource type="Texture2D" uid="uid://bl8tpj4yt6qnt" path="res://assets/pets/香蕉攻击/香蕉攻击_23.png" id="24_2qjtx"]
+[ext_resource type="Texture2D" uid="uid://dlosw4n3nfbqn" path="res://assets/pets/香蕉攻击/香蕉攻击_24.png" id="25_2cwlo"]
+[ext_resource type="Texture2D" uid="uid://dlmllsulwvqtj" path="res://assets/pets/香蕉攻击/香蕉攻击_25.png" id="26_d2djc"]
+[ext_resource type="Texture2D" uid="uid://bgfglrr8ulb7x" path="res://assets/pets/香蕉攻击/香蕉攻击_26.png" id="27_j70up"]
+[ext_resource type="Texture2D" uid="uid://c7et4h7ygrmad" path="res://assets/pets/香蕉攻击/香蕉攻击_27.png" id="28_la5vp"]
+[ext_resource type="Texture2D" uid="uid://dstmt6anokbdj" path="res://assets/pets/香蕉攻击/香蕉攻击_28.png" id="29_8rsdh"]
+[ext_resource type="Texture2D" uid="uid://dbila0htbnoxy" path="res://assets/pets/香蕉攻击/香蕉攻击_29.png" id="30_vvynp"]
+[ext_resource type="Texture2D" uid="uid://4x2mae45g870" path="res://assets/pets/香蕉攻击/香蕉攻击_30.png" id="31_vbvpd"]
+[ext_resource type="Texture2D" uid="uid://bay6su5wu6js1" path="res://assets/pets/香蕉攻击/香蕉攻击_31.png" id="32_ljhtn"]
+[ext_resource type="Texture2D" uid="uid://dej8tu4ap0w0e" path="res://assets/pets/香蕉攻击/香蕉攻击_32.png" id="33_qw6d2"]
+[ext_resource type="Texture2D" uid="uid://bve4p5egp4iha" path="res://assets/pets/香蕉攻击/香蕉攻击_33.png" id="34_wj0ep"]
+[ext_resource type="Texture2D" uid="uid://dwmew3o4ul5ra" path="res://assets/pets/香蕉攻击/香蕉攻击_34.png" id="35_hli50"]
+[ext_resource type="Texture2D" uid="uid://bfncovaagohw3" path="res://assets/pets/香蕉待机/香蕉待机_000.png" id="36_2my2o"]
+[ext_resource type="Texture2D" uid="uid://cqct1fv2m724t" path="res://assets/pets/香蕉待机/香蕉待机_001.png" id="37_hcpn6"]
+[ext_resource type="Texture2D" uid="uid://bgm552eirbp7q" path="res://assets/pets/香蕉待机/香蕉待机_002.png" id="38_1nnm7"]
+[ext_resource type="Texture2D" uid="uid://cujoux8oq25lw" path="res://assets/pets/香蕉待机/香蕉待机_003.png" id="39_w5a3y"]
+[ext_resource type="Texture2D" uid="uid://cum3srqcf20a6" path="res://assets/pets/香蕉待机/香蕉待机_004.png" id="40_203k7"]
+[ext_resource type="Texture2D" uid="uid://bmtdn2ya0ev26" path="res://assets/pets/香蕉待机/香蕉待机_005.png" id="41_uyyl2"]
+[ext_resource type="Texture2D" uid="uid://djelsm4qfg70h" path="res://assets/pets/香蕉待机/香蕉待机_006.png" id="42_81k5f"]
+[ext_resource type="Texture2D" uid="uid://cbta6abx4305j" path="res://assets/pets/香蕉待机/香蕉待机_007.png" id="43_gjxrt"]
+[ext_resource type="Texture2D" uid="uid://vgcfvlufpx6j" path="res://assets/pets/香蕉待机/香蕉待机_008.png" id="44_iutgl"]
+[ext_resource type="Texture2D" uid="uid://ntkg6le7lp1d" path="res://assets/pets/香蕉待机/香蕉待机_009.png" id="45_06gac"]
+[ext_resource type="Texture2D" uid="uid://8bvdjw5kl1oc" path="res://assets/pets/香蕉待机/香蕉待机_010.png" id="46_rbq3e"]
+[ext_resource type="Texture2D" uid="uid://bahjy0xuyui33" path="res://assets/pets/香蕉待机/香蕉待机_011.png" id="47_oro0q"]
+[ext_resource type="Texture2D" uid="uid://cdgyv4wcfp5jm" path="res://assets/pets/香蕉待机/香蕉待机_012.png" id="48_dju4m"]
+[ext_resource type="Texture2D" uid="uid://e0yhrg3jmbb4" path="res://assets/pets/香蕉待机/香蕉待机_013.png" id="49_4qkwp"]
+[ext_resource type="Texture2D" uid="uid://f8mhxufwunyg" path="res://assets/pets/香蕉待机/香蕉待机_014.png" id="50_or13f"]
+[ext_resource type="Texture2D" uid="uid://712ow4wja4yy" path="res://assets/pets/香蕉待机/香蕉待机_015.png" id="51_g235g"]
+[ext_resource type="Texture2D" uid="uid://563saael83si" path="res://assets/pets/香蕉待机/香蕉待机_016.png" id="52_wt0q7"]
+[ext_resource type="Texture2D" uid="uid://dbl7v6d7bbdxd" path="res://assets/pets/香蕉待机/香蕉待机_017.png" id="53_ucofb"]
+[ext_resource type="Texture2D" uid="uid://v1e1gkv3q3i2" path="res://assets/pets/香蕉待机/香蕉待机_018.png" id="54_3v4t8"]
+[ext_resource type="Texture2D" uid="uid://cebcdod4ypx7" path="res://assets/pets/香蕉待机/香蕉待机_019.png" id="55_mglqo"]
+[ext_resource type="Texture2D" uid="uid://he8e8xqc2w8y" path="res://assets/pets/香蕉待机/香蕉待机_020.png" id="56_p03dn"]
+[ext_resource type="Texture2D" uid="uid://p7f3whdwlut" path="res://assets/pets/香蕉待机/香蕉待机_021.png" id="57_47ni0"]
+[ext_resource type="Texture2D" uid="uid://duxqmcbhoslxl" path="res://assets/pets/香蕉待机/香蕉待机_022.png" id="58_0dtfk"]
+[ext_resource type="Texture2D" uid="uid://cxrbfqy8ti8x6" path="res://assets/pets/香蕉待机/香蕉待机_023.png" id="59_d3ki3"]
+[ext_resource type="Texture2D" uid="uid://btl4xioujhsr5" path="res://assets/pets/香蕉待机/香蕉待机_024.png" id="60_0xrib"]
+[ext_resource type="Texture2D" uid="uid://84l2eyp6lgrt" path="res://assets/pets/香蕉待机/香蕉待机_025.png" id="61_jbtm7"]
+[ext_resource type="Texture2D" uid="uid://h6e6oofyhh64" path="res://assets/pets/香蕉待机/香蕉待机_026.png" id="62_1egj6"]
+[ext_resource type="Texture2D" uid="uid://gdvwptptlrdp" path="res://assets/pets/香蕉待机/香蕉待机_027.png" id="63_jcuso"]
+[ext_resource type="Texture2D" uid="uid://cpoehjafp3wse" path="res://assets/pets/香蕉待机/香蕉待机_028.png" id="64_6sa57"]
+[ext_resource type="Texture2D" uid="uid://bd5vfbaeejq38" path="res://assets/pets/香蕉待机/香蕉待机_029.png" id="65_dw4eq"]
+[ext_resource type="Texture2D" uid="uid://bobq1obojucuc" path="res://assets/pets/香蕉待机/香蕉待机_030.png" id="66_msaac"]
+[ext_resource type="Texture2D" uid="uid://c0gyutcoqemeq" path="res://assets/pets/香蕉待机/香蕉待机_031.png" id="67_03xck"]
+[ext_resource type="Texture2D" uid="uid://dgqwg4mc32voy" path="res://assets/pets/香蕉待机/香蕉待机_032.png" id="68_fkjdm"]
+[ext_resource type="Texture2D" uid="uid://bd6iiqatau3w1" path="res://assets/pets/香蕉待机/香蕉待机_033.png" id="69_yrst3"]
+[ext_resource type="Texture2D" uid="uid://xacj0xis2n7f" path="res://assets/pets/香蕉待机/香蕉待机_034.png" id="70_kj1lo"]
+[ext_resource type="Texture2D" uid="uid://pmbkufo7bexi" path="res://assets/pets/香蕉待机/香蕉待机_035.png" id="71_6aqv6"]
+[ext_resource type="Texture2D" uid="uid://ckg5f1g835fsa" path="res://assets/pets/香蕉待机/香蕉待机_036.png" id="72_b85ny"]
+[ext_resource type="Texture2D" uid="uid://i0y6m20utmxa" path="res://assets/pets/香蕉待机/香蕉待机_037.png" id="73_8iha2"]
+[ext_resource type="Texture2D" uid="uid://dr53o7f2oqmc0" path="res://assets/pets/香蕉待机/香蕉待机_038.png" id="74_518ml"]
+[ext_resource type="Texture2D" uid="uid://c3gpyoivce560" path="res://assets/pets/香蕉待机/香蕉待机_039.png" id="75_a6o4p"]
+[ext_resource type="Texture2D" uid="uid://bmxylr1tnqu5m" path="res://assets/pets/香蕉待机/香蕉待机_040.png" id="76_yuond"]
+[ext_resource type="Texture2D" uid="uid://do26ylslab7dn" path="res://assets/pets/香蕉待机/香蕉待机_041.png" id="77_pf2ag"]
+[ext_resource type="Texture2D" uid="uid://c1umdxfxt1l2b" path="res://assets/pets/香蕉待机/香蕉待机_042.png" id="78_uabs7"]
+[ext_resource type="Texture2D" uid="uid://gtxrtgo6i7b3" path="res://assets/pets/香蕉待机/香蕉待机_043.png" id="79_3g6ka"]
+[ext_resource type="Texture2D" uid="uid://c33tqfa1ix3d4" path="res://assets/pets/香蕉待机/香蕉待机_044.png" id="80_jlwkh"]
+[ext_resource type="Texture2D" uid="uid://cepeu5notfkr" path="res://assets/pets/香蕉待机/香蕉待机_045.png" id="81_xeqmt"]
+[ext_resource type="Texture2D" uid="uid://c1twa4tqlofcl" path="res://assets/pets/香蕉待机/香蕉待机_046.png" id="82_uykmj"]
+[ext_resource type="Texture2D" uid="uid://88wudbb40nje" path="res://assets/pets/香蕉待机/香蕉待机_047.png" id="83_4m6bt"]
+[ext_resource type="Texture2D" uid="uid://g4v2tghok2ut" path="res://assets/pets/香蕉待机/香蕉待机_048.png" id="84_m2qcd"]
+[ext_resource type="Texture2D" uid="uid://b6e1m28018c05" path="res://assets/pets/香蕉待机/香蕉待机_049.png" id="85_88wlj"]
+[ext_resource type="Texture2D" uid="uid://fd65arnnts2" path="res://assets/pets/香蕉待机/香蕉待机_050.png" id="86_ioexk"]
+[ext_resource type="Texture2D" uid="uid://cunuou5ht1qno" path="res://assets/pets/香蕉待机/香蕉待机_051.png" id="87_l0wpv"]
+[ext_resource type="Texture2D" uid="uid://v2kcyxonbuob" path="res://assets/pets/香蕉待机/香蕉待机_052.png" id="88_jqe7j"]
+[ext_resource type="Texture2D" uid="uid://dlygwlfsxj4k2" path="res://assets/pets/香蕉待机/香蕉待机_053.png" id="89_cj2mg"]
+[ext_resource type="Texture2D" uid="uid://bb53fq2p6n3x0" path="res://assets/pets/香蕉待机/香蕉待机_054.png" id="90_7oprk"]
+[ext_resource type="Texture2D" uid="uid://doe5vxep8j8el" path="res://assets/pets/香蕉待机/香蕉待机_055.png" id="91_vhh3c"]
+[ext_resource type="Texture2D" uid="uid://dry1vk4lobtrb" path="res://assets/pets/香蕉待机/香蕉待机_056.png" id="92_bvtym"]
+[ext_resource type="Texture2D" uid="uid://ckwfawmm6ktdv" path="res://assets/pets/香蕉待机/香蕉待机_057.png" id="93_20etu"]
+[ext_resource type="Texture2D" uid="uid://cfuiw80tgy3jo" path="res://assets/pets/香蕉待机/香蕉待机_058.png" id="94_3whw4"]
+[ext_resource type="Texture2D" uid="uid://dxni1dgvbe8ry" path="res://assets/pets/香蕉待机/香蕉待机_059.png" id="95_l1t2o"]
+[ext_resource type="Texture2D" uid="uid://boe6v4y5uf28q" path="res://assets/pets/香蕉待机/香蕉待机_060.png" id="96_s56cx"]
+[ext_resource type="Texture2D" uid="uid://c7qn0deety0og" path="res://assets/pets/香蕉待机/香蕉待机_061.png" id="97_pqlyp"]
+[ext_resource type="Texture2D" uid="uid://isw4bkfl4i7d" path="res://assets/pets/香蕉待机/香蕉待机_062.png" id="98_ugc8m"]
+[ext_resource type="Texture2D" uid="uid://dong4gpdbo07u" path="res://assets/pets/香蕉待机/香蕉待机_063.png" id="99_n2bal"]
+[ext_resource type="Texture2D" uid="uid://ddsib63dcs0x3" path="res://assets/pets/香蕉待机/香蕉待机_064.png" id="100_ppecd"]
+[ext_resource type="Texture2D" uid="uid://bo40wiiuef51m" path="res://assets/pets/香蕉待机/香蕉待机_065.png" id="101_awbql"]
+[ext_resource type="Texture2D" uid="uid://cb1y7fq7uvt5c" path="res://assets/pets/香蕉待机/香蕉待机_066.png" id="102_mid1l"]
+[ext_resource type="Texture2D" uid="uid://efdpd828ffd7" path="res://assets/pets/香蕉待机/香蕉待机_067.png" id="103_wfjyk"]
+[ext_resource type="Texture2D" uid="uid://bet40w5myaega" path="res://assets/pets/香蕉待机/香蕉待机_068.png" id="104_tnydk"]
+[ext_resource type="Texture2D" uid="uid://c1r4kpkmybrx1" path="res://assets/pets/香蕉待机/香蕉待机_069.png" id="105_isj2w"]
+[ext_resource type="Texture2D" uid="uid://bg4tpqtamtmje" path="res://assets/pets/香蕉待机/香蕉待机_070.png" id="106_b5uxh"]
+[ext_resource type="Texture2D" uid="uid://24pq31t5ypl1" path="res://assets/pets/香蕉待机/香蕉待机_071.png" id="107_r36i3"]
+[ext_resource type="Texture2D" uid="uid://cxdnfionbv08b" path="res://assets/pets/香蕉待机/香蕉待机_072.png" id="108_did2p"]
+[ext_resource type="Texture2D" uid="uid://cl1n6qq81ckm5" path="res://assets/pets/香蕉待机/香蕉待机_073.png" id="109_i2lv7"]
+[ext_resource type="Texture2D" uid="uid://wai85y35g7x3" path="res://assets/pets/香蕉待机/香蕉待机_074.png" id="110_4yw8s"]
+[ext_resource type="Texture2D" uid="uid://dvwpdad1wx15u" path="res://assets/pets/香蕉待机/香蕉待机_075.png" id="111_5tlup"]
+[ext_resource type="Texture2D" uid="uid://grbewdvl2pe3" path="res://assets/pets/香蕉待机/香蕉待机_076.png" id="112_agkea"]
+[ext_resource type="Texture2D" uid="uid://ba3pxlbib54u3" path="res://assets/pets/香蕉待机/香蕉待机_077.png" id="113_mpwi8"]
+[ext_resource type="Texture2D" uid="uid://byetpo04fxtyd" path="res://assets/pets/香蕉待机/香蕉待机_078.png" id="114_2iyc6"]
+[ext_resource type="Texture2D" uid="uid://m4cqipr6p2kq" path="res://assets/pets/香蕉待机/香蕉待机_079.png" id="115_0vdqo"]
+[ext_resource type="Texture2D" uid="uid://deiw27t6jy02t" path="res://assets/pets/香蕉待机/香蕉待机_080.png" id="116_38fod"]
+[ext_resource type="Texture2D" uid="uid://op2tro3alhhq" path="res://assets/pets/香蕉待机/香蕉待机_081.png" id="117_pc7ld"]
+[ext_resource type="Texture2D" uid="uid://bp4jp6msiaqfv" path="res://assets/pets/香蕉待机/香蕉待机_082.png" id="118_qwefb"]
+[ext_resource type="Texture2D" uid="uid://db2ghhusq1lc2" path="res://assets/pets/香蕉待机/香蕉待机_083.png" id="119_wb0p6"]
+[ext_resource type="Texture2D" uid="uid://ddhajctkhhrja" path="res://assets/pets/香蕉待机/香蕉待机_084.png" id="120_8vig2"]
+[ext_resource type="Texture2D" uid="uid://dgo2pym851ef" path="res://assets/pets/香蕉待机/香蕉待机_085.png" id="121_pmg7c"]
+[ext_resource type="Texture2D" uid="uid://i6m3ms0verjk" path="res://assets/pets/香蕉待机/香蕉待机_086.png" id="122_b5dix"]
+[ext_resource type="Texture2D" uid="uid://bijl08wo5s3xu" path="res://assets/pets/香蕉待机/香蕉待机_087.png" id="123_qf63s"]
+[ext_resource type="Texture2D" uid="uid://bg8tpfuvpo5r7" path="res://assets/pets/香蕉待机/香蕉待机_088.png" id="124_3ev30"]
+[ext_resource type="Texture2D" uid="uid://bkk8bdqgq27ws" path="res://assets/pets/香蕉待机/香蕉待机_089.png" id="125_4uk2c"]
+[ext_resource type="Texture2D" uid="uid://dqpdi7d7tja67" path="res://assets/pets/香蕉待机/香蕉待机_090.png" id="126_70u6p"]
+[ext_resource type="Texture2D" uid="uid://mv1smhsjmy61" path="res://assets/pets/香蕉待机/香蕉待机_091.png" id="127_yv70s"]
+[ext_resource type="Texture2D" uid="uid://byyxg1erou4jj" path="res://assets/pets/香蕉待机/香蕉待机_092.png" id="128_xwfpy"]
+[ext_resource type="Texture2D" uid="uid://cdxyaepmmtc3g" path="res://assets/pets/香蕉待机/香蕉待机_093.png" id="129_0tdtp"]
+[ext_resource type="Texture2D" uid="uid://c06koduc8ljg7" path="res://assets/pets/香蕉待机/香蕉待机_094.png" id="130_il1x8"]
+[ext_resource type="Texture2D" uid="uid://c76iac1wxjast" path="res://assets/pets/香蕉待机/香蕉待机_095.png" id="131_fc44d"]
+[ext_resource type="Texture2D" uid="uid://b41w1xkp6rm62" path="res://assets/pets/香蕉待机/香蕉待机_096.png" id="132_sm83t"]
+[ext_resource type="Texture2D" uid="uid://bft2mm7fspcu4" path="res://assets/pets/香蕉待机/香蕉待机_097.png" id="133_8oo63"]
+[ext_resource type="Texture2D" uid="uid://pg1t44q61dx4" path="res://assets/pets/香蕉待机/香蕉待机_098.png" id="134_byup8"]
+[ext_resource type="Texture2D" uid="uid://dh3ij16rrs2b" path="res://assets/pets/香蕉待机/香蕉待机_099.png" id="135_vpv41"]
+[ext_resource type="Texture2D" uid="uid://cpigwqwumn7au" path="res://assets/pets/香蕉待机/香蕉待机_100.png" id="136_8s6cp"]
+[ext_resource type="Texture2D" uid="uid://34h5ctd4m5ml" path="res://assets/pets/香蕉待机/香蕉待机_101.png" id="137_2nbo5"]
+[ext_resource type="Texture2D" uid="uid://bjsbwdhah80om" path="res://assets/pets/香蕉待机/香蕉待机_102.png" id="138_g8k0r"]
+[ext_resource type="Texture2D" uid="uid://buka8nxheo30u" path="res://assets/pets/香蕉待机/香蕉待机_103.png" id="139_7kle6"]
+[ext_resource type="Texture2D" uid="uid://djlwstn0vvcyu" path="res://assets/pets/香蕉待机/香蕉待机_104.png" id="140_haofe"]
+[ext_resource type="Texture2D" uid="uid://q820kgow27gf" path="res://assets/pets/香蕉待机/香蕉待机_105.png" id="141_nv3aa"]
+[ext_resource type="Texture2D" uid="uid://bn82fabo56wmb" path="res://assets/pets/香蕉待机/香蕉待机_106.png" id="142_fhbeh"]
+[ext_resource type="Texture2D" uid="uid://c3285g1kp07py" path="res://assets/pets/香蕉待机/香蕉待机_107.png" id="143_bbbrg"]
+[ext_resource type="Texture2D" uid="uid://bpk66ja5nc3j6" path="res://assets/pets/香蕉待机/香蕉待机_108.png" id="144_for0s"]
+[ext_resource type="Texture2D" uid="uid://duulcj6i6qc7h" path="res://assets/pets/香蕉待机/香蕉待机_109.png" id="145_74rjr"]
+[ext_resource type="Texture2D" uid="uid://ogrb2070gmgi" path="res://assets/pets/香蕉待机/香蕉待机_110.png" id="146_rar2p"]
+[ext_resource type="Texture2D" uid="uid://dpaglip1oildm" path="res://assets/pets/香蕉待机/香蕉待机_111.png" id="147_1aojf"]
+[ext_resource type="Texture2D" uid="uid://tyev8jqlxpyv" path="res://assets/pets/香蕉待机/香蕉待机_112.png" id="148_ytr5i"]
+[ext_resource type="Texture2D" uid="uid://uuc7dkw6td1h" path="res://assets/pets/香蕉待机/香蕉待机_113.png" id="149_q3sit"]
+[ext_resource type="Texture2D" uid="uid://bgb6e7l3w2ktj" path="res://assets/pets/香蕉待机/香蕉待机_114.png" id="150_vbdo0"]
+[ext_resource type="Texture2D" uid="uid://cby01wg2d2dj0" path="res://assets/pets/香蕉待机/香蕉待机_115.png" id="151_ch8j4"]
+[ext_resource type="Texture2D" uid="uid://dlackjoewtofy" path="res://assets/pets/香蕉待机/香蕉待机_116.png" id="152_gwfv7"]
+[ext_resource type="Texture2D" uid="uid://darcju0le4dgp" path="res://assets/pets/香蕉待机/香蕉待机_117.png" id="153_w7n3v"]
+[ext_resource type="Texture2D" uid="uid://cnqwlafmv5h8w" path="res://assets/pets/香蕉待机/香蕉待机_118.png" id="154_fki3n"]
+[ext_resource type="Texture2D" uid="uid://cxmmwqeevquqb" path="res://assets/pets/香蕉待机/香蕉待机_119.png" id="155_7xqyr"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_qprtm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_86h6h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_1tir0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_siq42")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_4a8gj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_rnufh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_5chsh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_ygi54")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_jir2o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_wv18v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_yutuv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_8rq1v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_l01rf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_1oykm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_ne7fe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_vvoc7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_skkdq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_go6hw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_g24o8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_dtlgd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_ugk51")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_f8ku6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_u0sed")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_2qjtx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_2cwlo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_d2djc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_j70up")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_la5vp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_8rsdh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_vvynp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_vbvpd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_ljhtn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_qw6d2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_wj0ep")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_hli50")
+}],
+"loop": true,
+"name": &"bananaattack",
+"speed": 60.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("36_2my2o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_hcpn6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_1nnm7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_w5a3y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_203k7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_uyyl2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_81k5f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_gjxrt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_iutgl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_06gac")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_rbq3e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_oro0q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_dju4m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_4qkwp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_or13f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_g235g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_wt0q7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_ucofb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_3v4t8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_mglqo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_p03dn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_47ni0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_0dtfk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_d3ki3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_0xrib")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_jbtm7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_1egj6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_jcuso")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_6sa57")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_dw4eq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_msaac")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_03xck")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_fkjdm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_yrst3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_kj1lo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_6aqv6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_b85ny")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_8iha2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_518ml")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_a6o4p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_yuond")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_pf2ag")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_uabs7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_3g6ka")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_jlwkh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_xeqmt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_uykmj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_4m6bt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_m2qcd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_88wlj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_ioexk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_l0wpv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_jqe7j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_cj2mg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_7oprk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_vhh3c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_bvtym")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_20etu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_3whw4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_l1t2o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_s56cx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_pqlyp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_ugc8m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_n2bal")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_ppecd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_awbql")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_mid1l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_wfjyk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_tnydk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_isj2w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_b5uxh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_r36i3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_did2p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_i2lv7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_4yw8s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_5tlup")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_agkea")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_mpwi8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_2iyc6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_0vdqo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_38fod")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_pc7ld")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_qwefb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_wb0p6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_8vig2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("121_pmg7c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_b5dix")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_qf63s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_3ev30")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_4uk2c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_70u6p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_yv70s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_xwfpy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_0tdtp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_il1x8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("131_fc44d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("132_sm83t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_8oo63")
+}, {
+"duration": 1.0,
+"texture": ExtResource("134_byup8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("135_vpv41")
+}, {
+"duration": 1.0,
+"texture": ExtResource("136_8s6cp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("137_2nbo5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("138_g8k0r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("139_7kle6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("140_haofe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("141_nv3aa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("142_fhbeh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("143_bbbrg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("144_for0s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("145_74rjr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("146_rar2p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("147_1aojf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("148_ytr5i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("149_q3sit")
+}, {
+"duration": 1.0,
+"texture": ExtResource("150_vbdo0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("151_ch8j4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("152_gwfv7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("153_w7n3v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("154_fki3n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("155_7xqyr")
+}],
+"loop": true,
+"name": &"bananaidle",
+"speed": 30.0
+}]
