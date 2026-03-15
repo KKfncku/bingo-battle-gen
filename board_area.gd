@@ -215,11 +215,15 @@ func _spawn_to_specific_slot(slot: Marker2D, fruit_id: String) -> void:
 		return
 
 	var u: FruitUnit = fruit_unit_scene.instantiate()
-	add_child(u)
+
 	u.fruit_id = fruit_id
 	u.bullet_scene = bullet_scene
+
+	add_child(u)
+
 	u.global_position = slot.global_position
 	u.set_state_attacking(true)
+	u.refresh_from_fruit_id()
 
 	slot_to_unit[slot] = u
 

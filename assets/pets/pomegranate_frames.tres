@@ -219,7 +219,7 @@ animations = [{
 "texture": ExtResource("46_d1pml")
 }],
 "loop": true,
-"name": &"pomegranateattack",
+"name": &"attack",
 "speed": 60.0
 }, {
 "frames": [{
@@ -314,6 +314,6 @@ animations = [{
 "texture": ExtResource("76_shod1")
 }],
 "loop": true,
-"name": &"pomegranateidle",
+"name": &"idle",
 "speed": 30.0
 }]
